@@ -24,8 +24,6 @@
 	- [Open-Set-Recognition](#opensource-osr)
 	- [Open-World-Recognition](#opensource-owr)
 
-- [Datasets with ground truth - Reproducible research](#dataset)
-
 - [License](#license)
 
 - [Contributing](#contributing)
