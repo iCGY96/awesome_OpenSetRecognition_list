@@ -149,20 +149,20 @@
 
 
 ### Deep Neural Network-based
-| Project |  Language | License |
+| Project |  Language | Model |
 | ---  | --- | --- |
 |[OpenMax](https://github.com/abhijitbendale/OSDN) | Python | [OpenMax](https://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Bendale_Towards_Open_Set_CVPR_2016_paper.html)|
 |[CNN-for-Sentence-Classification-in-Keras](https://github.com/alexander-rakhlin/CNN-for-Sentence-Classification-in-Keras) | Python | [DOC](https://arxiv.org/abs/1709.08716)|
 
 ### Adversarial Learning-based
 
-| Project |  Language | License |
+| Project |  Language | Model |
 | ---  | --- | --- |
 |[counterfactual-open-set](https://github.com/lwneal/counterfactual-open-set) | Python | [Neal](https://link.springer.com/chapter/10.1007/978-3-030-01231-1_38)|
 |[ASG](https://github.com/eyounx/ASG) | Python | [ASG](https://arxiv.org/abs/1705.08722)|
 
 ### Extreme Value Theory-based
-| Project |  Language | License |
+| Project |  Language | Model |
 | ---  | --- | --- |
 |[ExtremeValueMachine](https://github.com/EMRResearch/ExtremeValueMachine) | Python | [EVM](https://ieeexplore.ieee.org/abstract/document/7932895/)|
 
