@@ -70,6 +70,7 @@
 
 [Towards open-set face recognition using hashing functions](https://ieeexplore.ieee.org/abstract/document/8272751/), Vareto R, Silva S, Costa F, et al. IJCB, 2018.
 
+[Learning to Separate Domains in Generalized Zero-Shot and Open Set Learning: a probabilistic perspective](https://arxiv.org/abs/1810.07368), Hanze Dong, Yanwei Fu, Leonid Sigal, Sung Ju Hwang, Yu-Gang Jiang, Xiangyang Xue. arXiv, 2018.
 
 <a name="papers-osr-dnn"></a>
 ### Deep Neural Network-based
