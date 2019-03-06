@@ -97,6 +97,8 @@
 
 [The Importance of Metric Learning for Robotic Vision: Open Set Recognition and Active Learning](https://arxiv.org/abs/1902.10363), Benjamin J. Meyer, Tom Drummond. ICRA, 2019.
 
+[Deep Anomaly Detection with Outlier Exposure](https://arxiv.org/abs/1812.04606), Dan Hendrycks, Mantas Mazeika, Thomas Dietterich. ICLR, 2019.
+
 
 <a name="papers-osr-al"></a>
 ### Adversarial Learning-based
@@ -162,6 +164,7 @@
 |[CNN-for-Sentence-Classification-in-Keras](https://github.com/alexander-rakhlin/CNN-for-Sentence-Classification-in-Keras) | Python | [DOC](https://arxiv.org/abs/1709.08716)|
 |[error-detection](https://github.com/hendrycks/error-detection) | Python | [Baseline](https://arxiv.org/abs/1610.02136)|
 |[ODIN](https://github.com/facebookresearch/odin) | Python | [ODIN](https://arxiv.org/abs/1706.02690)|
+|[Outlier-Exposure](https://github.com/hendrycks/outlier-exposure) | Python | [Outlier-Exposure](https://arxiv.org/abs/1812.04606)|
 
 ### Adversarial Learning-based
 
