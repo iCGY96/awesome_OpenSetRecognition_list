@@ -77,19 +77,25 @@
 
 [A bounded neural network for open set recognition](https://ieeexplore.ieee.org/abstract/document/7280680/), Cardoso D O, França F, Gama J. IJCNN, 2015.
 
-[Weightless neural networks for open set recognition](https://link.springer.com/article/10.1007/s10994-017-5646-4), Cardoso D O, Gama J, França F M G. Machine Learning, 2017.
-
 [Towards open set deep networks](https://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Bendale_Towards_Open_Set_CVPR_2016_paper.html), Bendale A, Boult T E. CVPR, 2016.
+
+[Weightless neural networks for open set recognition](https://link.springer.com/article/10.1007/s10994-017-5646-4), Cardoso D O, Gama J, França F M G. Machine Learning, 2017.
 
 [*Adversarial Robustness: Softmax versus Openmax](https://arxiv.org/abs/1708.01697), Rozsa A, Günther M, Boult T E. arXiv, 2017.
 
 [*Deep open classification of text documents](https://arxiv.org/abs/1709.08716), Shu L, Xu H, Liu B. Doc. arXiv, 2017.
+
+[A Baseline for Detecting Misclassified and Out-of-Distribution Examples in Neural Networks](https://arxiv.org/abs/1610.02136), Dan Hendrycks and Kevin Gimpel. ICLR, 2017.
+
+[Enhancing The Reliability of Out-of-distribution Image Detection in Neural Networks](https://arxiv.org/abs/1706.02690), Shiyu Liang, Yixuan Li, R. Srikant. ICLR, 2018.
 
 [Open Set Text Classification using Convolutional Neural Networks](http://www.cs.uccs.edu/~jkalita/papers/2017/SridhamaPrakhyaICON2017.pdf), Prakhya S, Venkataram V, Kalita J. NLPIR, 2018.
 
 [*Learning a Neural-network-based Representation for Open Set Recognition](https://arxiv.org/abs/1802.04365), Hassen M, Chan P K. arXiv, 2018.
 
 [*Unseen Class Discovery in Open-world Classification](https://arxiv.org/abs/1802.04365), Shu L, Xu H, Liu B. arXiv, 2018.
+
+[The Importance of Metric Learning for Robotic Vision: Open Set Recognition and Active Learning](https://arxiv.org/abs/1902.10363), Benjamin J. Meyer, Tom Drummond. ICRA, 2019.
 
 
 <a name="papers-osr-al"></a>
@@ -154,6 +160,8 @@
 | ---  | --- | --- |
 |[OpenMax](https://github.com/abhijitbendale/OSDN) | Python | [OpenMax](https://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Bendale_Towards_Open_Set_CVPR_2016_paper.html)|
 |[CNN-for-Sentence-Classification-in-Keras](https://github.com/alexander-rakhlin/CNN-for-Sentence-Classification-in-Keras) | Python | [DOC](https://arxiv.org/abs/1709.08716)|
+|[error-detection](https://github.com/hendrycks/error-detection) | Python | [Baseline](https://arxiv.org/abs/1610.02136)|
+|[ODIN](https://github.com/facebookresearch/odin) | Python | [ODIN](https://arxiv.org/abs/1706.02690)|
 
 ### Adversarial Learning-based
 
