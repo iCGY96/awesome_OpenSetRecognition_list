@@ -125,13 +125,19 @@
 <a name="papers-osr-al"></a>
 ### Adversarial Learning-based
 
+##### 2017
+
 [*Generative openmax for multi-class open set classification](https://arxiv.org/abs/1707.07418), Ge Z Y, Demyanov S, Chen Z, et al. (**arXiv, 2017**).
 
 [Open-category classification by adversarial sample generation](https://arxiv.org/abs/1705.08722), Yu Y, Qu W Y, Li N, et al. (**IJCAI, 2017**). [**[code]**](https://github.com/eyounx/ASG)
 
+##### 2018
+
 [*Open Set Adversarial Examples](https://arxiv.org/abs/1809.02681), Zhedong Z, Liang Z, Zhilan H, et al. (**arXiv, 2018**).
 
 [Open Set Learning with Counterfactual Images](https://link.springer.com/chapter/10.1007/978-3-030-01231-1_38), Neal L, Olson M, Fern X, et al. (**ECCV, 2018**). [**[code]**](https://github.com/lwneal/counterfactual-open-set)
+
+##### 2019
 
 [Open-set human activity recognition based on micro-Doppler signatures](https://www.sciencedirect.com/science/article/pii/S003132031830270X), Yang Y, Hou C, Lang Y, et al. (**Pattern Recognition, 2019**).
 
@@ -139,7 +145,7 @@
 <a name="papers-osr-evt"></a>
 ### Extreme Value Theory-based
 
-#### 2018
+##### 2018
 [The extreme value machine](https://ieeexplore.ieee.org/abstract/document/7932895/), Rudd E M, Jain L P, Scheirer W J, et al. (**PAMI, 2018**). [**[code]**](https://github.com/EMRResearch/ExtremeValueMachine)
 
 [*Extreme Value Theory for Open Set Classification-GPD and GEV Classifiers](https://arxiv.org/abs/1808.09902), Vignotto E, Engelke S. (**arXiv, 2018**).
