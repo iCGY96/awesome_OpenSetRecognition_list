@@ -129,6 +129,14 @@
 
 [*Open-Set Recognition Using Intra-Class Splitting](https://arxiv.org/abs/1903.04774), Patrick Schlachter, Yiwen Liao, Bin Yang. (**arXiv, 2019**).
 
+[*Alignment Based Matching Networks for One-Shot Classification and Open-Set Recognition](https://arxiv.org/abs/1903.06538v1), Paresh Malalur, Tommi Jaakkola. (**arXiv, 2019**).
+
+[*Open-Set Recognition Using Intra-Class Splitting](https://arxiv.org/abs/1903.04774v1), Patrick Schlachter, Yiwen Liao, Bin Yang. (**arXiv, 2019**).
+
+[C2AE: Class Conditioned Auto-Encoder for Open-set Recognition](https://arxiv.org/abs/1904.01198v1), Poojan Oza, Vishal M Patel. (**CVPR, 2019, oral**).
+
+[*Experiments on Open-Set Speaker Identification with Discriminatively Trained Neural Networks](https://arxiv.org/abs/1904.01269v1), Stefano Imoscopi, Volodya Grancharov, Sigurdur Sverrisson, Erlendur Karlsson, Harald Pobloth. (**arXiv, 2019**).
+
 <a name="papers-osr-al"></a>
 ### Adversarial Learning-based
 
