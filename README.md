@@ -191,11 +191,15 @@
 
 [ODN: Opening the Deep Network for Open-Set Action Recognition](https://ieeexplore.ieee.org/abstract/document/8486601/), Shi Y, Wang Y, Zou Y, et al. (**ICME, 2018**).
 
+##### 2019
+
+[Large-Scale Long-Tailed Recognition in an Open World](https://arxiv.org/abs/1904.05160v1), ZiweiLiu, ZhongqiMiao, XiaohangZhan, et al. (**CVPR, Oral, 2019**).
+
 # License
 
 License [![CCBY-SA](https://i.creativecommons.org/l/by-sa/4.0/80x15.png)]()
 
-To the extent possible under law, [Guangyao Chen](https://github.com/iCGY96/) has waived all copyright and related or neighboring rights to this work.
+To the extent possible under law, [Guangyao Chen](https://github.com/iCGY96/) has waived all https://arxiv.org/abs/1904.05160v1 and related or neighboring rights to this work.
 
 # Contributing
 Please see [CONTRIBUTING](https://github.com/iCGY96/awesome_OpenSet_list/blob/master/contributing.md) for details.
