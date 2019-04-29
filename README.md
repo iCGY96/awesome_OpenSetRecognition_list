@@ -133,6 +133,8 @@
 
 [*Experiments on Open-Set Speaker Identification with Discriminatively Trained Neural Networks](https://arxiv.org/abs/1904.01269v1), Stefano Imoscopi, Volodya Grancharov, Sigurdur Sverrisson, Erlendur Karlsson, Harald Pobloth. (**arXiv, 2019**).
 
+[*Unsupervised Open Domain Recognition by Semantic Discrepancy Minimization](https://arxiv.org/abs/1904.08631v1), Junbao Zhuo, Shuhui Wang, Shuhao Cui, Qingming Huang (**CVPR, 2019**).
+
 <a name="papers-osr-al"></a>
 ### Adversarial Learning-based
 
