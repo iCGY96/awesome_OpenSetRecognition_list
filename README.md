@@ -130,6 +130,9 @@
 
 [Large-Scale Long-Tailed Recognition in an Open World](https://arxiv.org/abs/1904.05160v1), ZiweiLiu, ZhongqiMiao, XiaohangZhan, et al. (**CVPR, Oral, 2019**).[[code]](https://github.com/zhmiao/OpenLongTailRecognition-OLTR)
 
+[Unified Probabilistic Deep Continual Learning through Generative Replay and Open Set Recognition](https://arxiv.org/abs/1905.12019v1), Martin Mundt, Sagnik Majumder, Iuliia Pliushch, Visvanathan Ramesh. (**arXiv, 2019**).
+
+
 <a name="papers-osr-al"></a>
 ### Adversarial Learning-based
 
