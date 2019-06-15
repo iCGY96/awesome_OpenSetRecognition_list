@@ -128,7 +128,14 @@
 
 [Unsupervised Open Domain Recognition by Semantic Discrepancy Minimization](https://arxiv.org/abs/1904.08631v1), Junbao Zhuo, Shuhui Wang, Shuhao Cui, Qingming Huang (**CVPR, 2019**).
 
+<<<<<<< HEAD
 [Specialized Support Vector Machines for Open-set Recognition](https://arxiv.org/abs/1606.03802v8), Pedro Ribeiro Mendes Júnior, Terrance E. Boult, Jacques Wainer, Anderson Rocha (**arXiv, 2019**).
+=======
+[Large-Scale Long-Tailed Recognition in an Open World](https://arxiv.org/abs/1904.05160v1), ZiweiLiu, ZhongqiMiao, XiaohangZhan, et al. (**CVPR, Oral, 2019**).[[code]](https://github.com/zhmiao/OpenLongTailRecognition-OLTR)
+
+[Unified Probabilistic Deep Continual Learning through Generative Replay and Open Set Recognition](https://arxiv.org/abs/1905.12019v1), Martin Mundt, Sagnik Majumder, Iuliia Pliushch, Visvanathan Ramesh. (**arXiv, 2019**).
+
+>>>>>>> a328a2fe1c8f93f2645ea9eba5056796a587ba80
 
 <a name="papers-osr-al"></a>
 ### Adversarial Learning-based
@@ -214,8 +221,6 @@
 [ODN: Opening the Deep Network for Open-Set Action Recognition](https://ieeexplore.ieee.org/abstract/document/8486601/), Shi Y, Wang Y, Zou Y, et al. (**ICME, 2018**).
 
 ##### 2019
-
-[Large-Scale Long-Tailed Recognition in an Open World](https://arxiv.org/abs/1904.05160v1), ZiweiLiu, ZhongqiMiao, XiaohangZhan, et al. (**CVPR, Oral, 2019**).[[code]](https://github.com/zhmiao/OpenLongTailRecognition-OLTR)
 
 [P-ODN: Prototype based Open Deep Network for Open Set Recognition](https://arxiv.org/abs/1905.01851v1), Yu Shu, Yemin Shi, Yaowei Wang, Tiejun Huang, Yonghong Tian. (**arXiv 2019**).
 
