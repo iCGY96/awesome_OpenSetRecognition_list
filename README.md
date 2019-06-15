@@ -128,6 +128,8 @@
 
 [Unsupervised Open Domain Recognition by Semantic Discrepancy Minimization](https://arxiv.org/abs/1904.08631v1), Junbao Zhuo, Shuhui Wang, Shuhao Cui, Qingming Huang (**CVPR, 2019**).
 
+[Specialized Support Vector Machines for Open-set Recognition](https://arxiv.org/abs/1606.03802v8), Pedro Ribeiro Mendes Júnior, Terrance E. Boult, Jacques Wainer, Anderson Rocha (**arXiv, 2019**).
+
 <a name="papers-osr-al"></a>
 ### Adversarial Learning-based
 
