@@ -18,8 +18,8 @@
     	- [Deep Neural Network-based](#papers-osr-dnn)
     	- [Adversarial Learning-based](#papers-osr-al)
     	- [EVT-based](#papers-osr-evt)
-  	- [Out-of-Distribution](#paper-odd)
-  	- [Open Set Domain Adaptation](#paper-osda)
+  	- [Out-of-Distribution](#papers-odd)
+  	- [Open Set Domain Adaptation](#papers-osda)
 	- [Open World Recognition](#papers-owr)
 
 - [License](#license)
