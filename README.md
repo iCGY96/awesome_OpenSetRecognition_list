@@ -183,23 +183,25 @@
 
 ##### 2017
 
-[Open Set Domain Adaptation](http://openaccess.thecvf.com/content_ICCV_2017/papers/Busto_Open_Set_Domain_ICCV_2017_paper.pdf), Pau Panareda Busto, Juergen Gall. (**ICCV 2017**)
+[Open Set Domain Adaptation](http://openaccess.thecvf.com/content_ICCV_2017/papers/Busto_Open_Set_Domain_ICCV_2017_paper.pdf), Pau Panareda Busto, Juergen Gall. (**ICCV 2017**).
 
-[Label Efficient Learning of Transferable Representations across Domains and Tasks](https://arxiv.org/abs/1712.00123), Zelun Luo, Yuliang Zou, Judy Hoffman, Li Fei-Fei. (**NeurIPS 2017**)
+[Label Efficient Learning of Transferable Representations across Domains and Tasks](https://arxiv.org/abs/1712.00123), Zelun Luo, Yuliang Zou, Judy Hoffman, Li Fei-Fei. (**NeurIPS 2017**).
 
 ##### 2018
 
-[Open set domain adaptation by backpropagation](https://arxiv.org/abs/1804.10427), Kuniaki Saito, Shohei Yamamoto, Yoshitaka Ushiku, Tatsuya Harada. (**ECCV 2018**)
+[Open set domain adaptation by backpropagation](https://arxiv.org/abs/1804.10427), Kuniaki Saito, Shohei Yamamoto, Yoshitaka Ushiku, Tatsuya Harada. (**ECCV 2018**).
 
 ##### 2019
 
-[Separate to Adapt: Open Set Domain Adaptation via Progressive Separation](http://openaccess.thecvf.com/content_CVPR_2019/papers/Liu_Separate_to_Adapt_Open_Set_Domain_Adaptation_via_Progressive_Separation_CVPR_2019_paper.pdf). Hong Liu, Zhangjie Cao, Mingsheng Long, Jianmin Wang, Qiang Yang. (**CVPR 2019**)
+[Separate to Adapt: Open Set Domain Adaptation via Progressive Separation](http://openaccess.thecvf.com/content_CVPR_2019/papers/Liu_Separate_to_Adapt_Open_Set_Domain_Adaptation_via_Progressive_Separation_CVPR_2019_paper.pdf). Hong Liu, Zhangjie Cao, Mingsheng Long, Jianmin Wang, Qiang Yang. (**CVPR 2019**).
 
-[Unsupervised Open Domain Recognition by Semantic Discrepancy Minimization](http://openaccess.thecvf.com/content_CVPR_2019/papers/Zhuo_Unsupervised_Open_Domain_Recognition_by_Semantic_Discrepancy_Minimization_CVPR_2019_paper.pdf). Junbao Zhuo, Shuhui Wang, Shuhao Cui, Qingming Huang. (**CVPR 2019**)
+[Unsupervised Open Domain Recognition by Semantic Discrepancy Minimization](http://openaccess.thecvf.com/content_CVPR_2019/papers/Zhuo_Unsupervised_Open_Domain_Recognition_by_Semantic_Discrepancy_Minimization_CVPR_2019_paper.pdf). Junbao Zhuo, Shuhui Wang, Shuhao Cui, Qingming Huang. (**CVPR 2019**).
 
-[Weakly Supervised Open-Set Domain Adaptation by Dual-Domain Collaboration](http://openaccess.thecvf.com/content_CVPR_2019/html/Tan_Weakly_Supervised_Open-Set_Domain_Adaptation_by_Dual-Domain_Collaboration_CVPR_2019_paper.html). Shuhan Tan, Jiening Jiao, Wei-Shi Zheng. (**CVPR 2019**)
+[Weakly Supervised Open-Set Domain Adaptation by Dual-Domain Collaboration](http://openaccess.thecvf.com/content_CVPR_2019/html/Tan_Weakly_Supervised_Open-Set_Domain_Adaptation_by_Dual-Domain_Collaboration_CVPR_2019_paper.html). Shuhan Tan, Jiening Jiao, Wei-Shi Zheng. (**CVPR 2019**).
 
-[Known-class Aware Self-ensemble for Open Set Domain Adaptation](https://arxiv.org/abs/1905.01068v1), Qing Lian, Wen Li, Lin Chen, Lixin Duan. (**arXiv 2019**)
+[[2019 ICLR] Learning Factorized Representations for Open-set Domain Adaptation](https://openreview.net/forum?id=SJe3HiC5KX), Mahsa Baktashmotlagh, Masoud Faraki, Tom Drummond, Mathieu Salzmann. (**ICLR 2019**).
+
+[Known-class Aware Self-ensemble for Open Set Domain Adaptation](https://arxiv.org/abs/1905.01068v1), Qing Lian, Wen Li, Lin Chen, Lixin Duan. (**arXiv 2019**).
 
 
 <a name="papers-owr"></a>
