@@ -160,6 +160,10 @@
 
 [*Extreme Value Theory for Open Set Classification-GPD and GEV Classifiers](https://arxiv.org/abs/1808.09902), Vignotto E, Engelke S. (**arXiv, 2018**).
 
+##### 2019
+
+[Collective decision for open set recognition](https://arxiv.org/abs/1806.11258v4), Chuanxing Geng, Songcan Chen. (**arXiv, 2019**).
+
 
 <a name="papers-odd"></a>
 ## Out-of-Distribution
