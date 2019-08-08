@@ -154,11 +154,12 @@
 ##### 2019
 - [Separate to Adapt: Open Set Domain Adaptation via Progressive Separation](http://openaccess.thecvf.com/content_CVPR_2019/papers/Liu_Separate_to_Adapt_Open_Set_Domain_Adaptation_via_Progressive_Separation_CVPR_2019_paper.pdf). Hong Liu, Zhangjie Cao, Mingsheng Long, Jianmin Wang, Qiang Yang. (**CVPR 2019**).
 - [Unsupervised Open Domain Recognition by Semantic Discrepancy Minimization](http://openaccess.thecvf.com/content_CVPR_2019/papers/Zhuo_Unsupervised_Open_Domain_Recognition_by_Semantic_Discrepancy_Minimization_CVPR_2019_paper.pdf). Junbao Zhuo, Shuhui Wang, Shuhao Cui, Qingming Huang. (**CVPR 2019**).
-- [Weakly Supervised Open-Set Domain Adaptation by Dual-Domain Collaboration](http://openaccess.thecvf.com/content_CVPR_2019/html/Tan_Weakly_Supervised_Open-Set_Domain_Adaptation_by_Dual-Domain_Collaboration_CVPR_2019_paper.html). Shuhan Tan, Jiening Jiao, Wei-Shi Zheng. (**CVPR 2019**).
+- [Weakly Supervised Open-Set Domain Adaptation by Dual-Domain Collaboration](http://openaccess.thecvf.com/content_CVPR_2019/html/Tan_Weakly_Supervised_Open-Set_Domain_Adaptation_by_Dual-Domain_Collaboration_CVPR_2019_paper.html). Shuhan Tan, Jiening Jiao, Wei-Shi Zheng. (**CVPR 2019**). [**[code]**](https://github.com/junbaoZHUO/UODTN)
 - [Learning Factorized Representations for Open-set Domain Adaptation](https://openreview.net/forum?id=SJe3HiC5KX), Mahsa Baktashmotlagh, Masoud Faraki, Tom Drummond, Mathieu Salzmann. (**ICLR 2019**).
 - [Known-class Aware Self-ensemble for Open Set Domain Adaptation](https://arxiv.org/abs/1905.01068v1), Qing Lian, Wen Li, Lin Chen, Lixin Duan. (**arXiv 2019**).
 - [Open Set Domain Adaptation: Theoretical Bound and Algorithm](https://arxiv.org/abs/1907.08375v1), Zhen Fang, Jie Lu, Feng Liu, Junyu Xuan, Guangquan Zhang. (**arXiv 2019**).
 - [Open Set Domain Adaptation for Image and Action Recognition](https://arxiv.org/abs/1907.12865v1), Pau Panareda Busto, Ahsan Iqbal, Juergen Gall. (**arXiv 2019**).
+- [Attract or Distract: Exploit the Margin of Open Set](https://arxiv.org/abs/1908.01925v1), Qianyu Feng, Guoliang Kang, Hehe Fan, Yi Yang. (**arXiv 2019**).
 
 
 <a name="papers-owr"></a>
@@ -183,6 +184,7 @@
 - [P-ODN: Prototype based Open Deep Network for Open Set Recognition](https://arxiv.org/abs/1905.01851v1), Yu Shu, Yemin Shi, Yaowei Wang, Tiejun Huang, Yonghong Tian. (**arXiv 2019**).
 - [Learning and the Unknown: Surveying Steps Toward Open World Recognition](https://www.vast.uccs.edu/~tboult/PAPERS/Learning_and_the_Unknown_Surveying_Steps_Toward_Open_World_Recognition_AAAI19.pdf), Terrance Boult, Steve Cruz, Akshay Dhamija, Manuel Günther, James Henrydoss,
 Walter J. Scheirer. (**AAAI, 2019**).
+- [Unified Probabilistic Deep Continual Learning through Generative Replay and Open Set Recognition](https://arxiv.org/abs/1905.12019). Martin Mundt, Sagnik Majumder, Iuliia Pliushch, Visvanathan Ramesh. (**arXiv 2019**).
 
 # License
 
