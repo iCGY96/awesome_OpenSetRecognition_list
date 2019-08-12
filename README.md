@@ -190,7 +190,10 @@ Walter J. Scheirer. (**AAAI, 2019**).
 
 License [![CCBY-SA](https://i.creativecommons.org/l/by-sa/4.0/80x15.png)]()
 
-To the extent possible under law, [Guangyao Chen](https://github.com/iCGY96/) has waived all https://arxiv.org/abs/1904.05160v1 and related or neighboring rights to this work.
+To the extent possible under law, [Guangyao Chen](https://github.com/iCGY96/) has waived all and related or neighboring rights to this work.
 
 # Contributing
 Please see [CONTRIBUTING](https://github.com/iCGY96/awesome_OpenSet_list/blob/master/contributing.md) for details.
+
+# Contributions
+Contributions are most welcome, if you have any suggestions and improvements, please create an issue or raise a pull request.
