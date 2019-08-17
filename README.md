@@ -70,6 +70,9 @@
 - [Towards open-set face recognition using hashing functions](https://ieeexplore.ieee.org/abstract/document/8272751/), Vareto R, Silva S, Costa F, et al. (**IJCB, 2018**). [**[code]**](https://github.com/rafaelvareto/HPLS-HFCN-openset).
 - [Learning to Separate Domains in Generalized Zero-Shot and Open Set Learning: a probabilistic perspective](https://arxiv.org/abs/1810.07368), Hanze Dong, Yanwei Fu, Leonid Sigal, Sung Ju Hwang, Yu-Gang Jiang, Xiangyang Xue. (**arXiv, 2018**).
 
+##### 2019
+- [Specialized Support Vector Machines for Open-set Recognition](https://arxiv.org/abs/1606.03802v8), Pedro Ribeiro Mendes Júnior, Terrance E. Boult, Jacques Wainer, Anderson Rocha (**arXiv, 2019**).
+
 <a name="papers-osr-dnn"></a>
 ### Deep Neural Network-based
 
@@ -101,7 +104,6 @@
 - [Unsupervised Open Domain Recognition by Semantic Discrepancy Minimization](https://arxiv.org/abs/1904.08631v1), Junbao Zhuo, Shuhui Wang, Shuhao Cui, Qingming Huang (**CVPR, 2019**).
 - [Large-Scale Long-Tailed Recognition in an Open World](https://arxiv.org/abs/1904.05160v1), ZiweiLiu, ZhongqiMiao, XiaohangZhan, et al. (**CVPR, Oral, 2019**).[[code]](https://github.com/zhmiao/OpenLongTailRecognition-OLTR)
 - [Unified Probabilistic Deep Continual Learning through Generative Replay and Open Set Recognition](https://arxiv.org/abs/1905.12019v1), Martin Mundt, Sagnik Majumder, Iuliia Pliushch, Visvanathan Ramesh. (**arXiv, 2019**).
-- [Specialized Support Vector Machines for Open-set Recognition](https://arxiv.org/abs/1606.03802v8), Pedro Ribeiro Mendes Júnior, Terrance E. Boult, Jacques Wainer, Anderson Rocha (**arXiv, 2019**).
 
 <a name="papers-osr-al"></a>
 ### Adversarial Learning-based
@@ -159,7 +161,7 @@
 - [Known-class Aware Self-ensemble for Open Set Domain Adaptation](https://arxiv.org/abs/1905.01068v1), Qing Lian, Wen Li, Lin Chen, Lixin Duan. (**arXiv 2019**).
 - [Open Set Domain Adaptation: Theoretical Bound and Algorithm](https://arxiv.org/abs/1907.08375v1), Zhen Fang, Jie Lu, Feng Liu, Junyu Xuan, Guangquan Zhang. (**arXiv 2019**).
 - [Open Set Domain Adaptation for Image and Action Recognition](https://arxiv.org/abs/1907.12865v1), Pau Panareda Busto, Ahsan Iqbal, Juergen Gall. (**arXiv 2019**).
-- [Attract or Distract: Exploit the Margin of Open Set](https://arxiv.org/abs/1908.01925v1), Qianyu Feng, Guoliang Kang, Hehe Fan, Yi Yang. (**arXiv 2019**).
+- [Attract or Distract: Exploit the Margin of Open Set](https://arxiv.org/abs/1908.01925v1), Qianyu Feng, Guoliang Kang, Hehe Fan, Yi Yang. (**ICCV 2019**).
 
 
 <a name="papers-owr"></a>
