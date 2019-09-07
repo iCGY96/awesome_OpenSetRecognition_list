@@ -140,6 +140,7 @@
 
 ##### 2019
 - [Deep Anomaly Detection with Outlier Exposure](https://arxiv.org/abs/1812.04606), Dan Hendrycks, Mantas Mazeika, Thomas Dietterich. (**ICLR, 2019**). [**[code]**](https://github.com/hendrycks/outlier-exposure)
+- [Likelihood Ratios for Out-of-Distribution Detection](https://arxiv.org/abs/1906.02845), Jie Ren, Peter J. Liu, Emily Fertig, Jasper Snoek, Ryan Poplin, Mark A. DePristo, Joshua V. Dillon, Balaji Lakshminarayanan. (**NeurIPS 2019**) 
 
 <a name="papers-osda"></a>
 ## Open Set Domain Adaptation
