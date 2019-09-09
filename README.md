@@ -102,7 +102,8 @@
 - [C2AE: Class Conditioned Auto-Encoder for Open-set Recognition](https://arxiv.org/abs/1904.01198v1), Poojan Oza, Vishal M Patel. (**CVPR, 2019, oral**).
 - [*Experiments on Open-Set Speaker Identification with Discriminatively Trained Neural Networks](https://arxiv.org/abs/1904.01269v1), Stefano Imoscopi, Volodya Grancharov, Sigurdur Sverrisson, Erlendur Karlsson, Harald Pobloth. (**arXiv, 2019**).
 - [Large-Scale Long-Tailed Recognition in an Open World](https://arxiv.org/abs/1904.05160v1), ZiweiLiu, ZhongqiMiao, XiaohangZhan, et al. (**CVPR, Oral, 2019**).[[code]](https://github.com/zhmiao/OpenLongTailRecognition-OLTR)
-- [Open Set Recognition Through Deep Neural Network Uncertainty: Does Out-of-Distribution Detection Require Generative Classifiers?](https://arxiv.org/abs/1908.09625v1), Martin Mundt, Iuliia Pliushch, Sagnik Majumder, Visvanathan Ramesh (**ICCVW, 2019**).
+- [Open Set Recognition Through Deep Neural Network Uncertainty: Does Out-of-Distribution Detection Require Generative Classifiers?](https://arxiv.org/abs/1908.09625v1), Martin Mundt, Iuliia Pliushch, Sagnik Majumder, Visvanathan Ramesh. (**ICCVW, 2019**).
+- [From Open Set to Closed Set: Counting Objects by Spatial Divide-and-Conquer](https://arxiv.org/abs/1908.06473), Haipeng Xiong, Hao Lu, Chengxin Liu, Liang Liu, Zhiguo Cao, Chunhua Shen. (**ICCV, 2019**). [[code]](https://github.com/xhp-hust-2018-2011/S-DCNet)
 
 
 <a name="papers-osr-al"></a>
@@ -162,7 +163,7 @@
 - [Known-class Aware Self-ensemble for Open Set Domain Adaptation](https://arxiv.org/abs/1905.01068v1), Qing Lian, Wen Li, Lin Chen, Lixin Duan. (**arXiv 2019**).
 - [Open Set Domain Adaptation: Theoretical Bound and Algorithm](https://arxiv.org/abs/1907.08375v1), Zhen Fang, Jie Lu, Feng Liu, Junyu Xuan, Guangquan Zhang. (**arXiv 2019**).
 - [Open Set Domain Adaptation for Image and Action Recognition](https://arxiv.org/abs/1907.12865v1), Pau Panareda Busto, Ahsan Iqbal, Juergen Gall. (**arXiv 2019**).
-- [Attract or Distract: Exploit the Margin of Open Set](https://arxiv.org/abs/1908.01925v1), Qianyu Feng, Guoliang Kang, Hehe Fan, Yi Yang. (**ICCV 2019**).
+- [Attract or Distract: Exploit the Margin of Open Set](https://arxiv.org/abs/1908.01925v2), Qianyu Feng, Guoliang Kang, Hehe Fan, Yi Yang. (**ICCV 2019**).
 
 
 <a name="papers-owr"></a>
