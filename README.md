@@ -103,7 +103,7 @@
 - [*Experiments on Open-Set Speaker Identification with Discriminatively Trained Neural Networks](https://arxiv.org/abs/1904.01269v1), Stefano Imoscopi, Volodya Grancharov, Sigurdur Sverrisson, Erlendur Karlsson, Harald Pobloth. (**arXiv, 2019**).
 - [Large-Scale Long-Tailed Recognition in an Open World](https://arxiv.org/abs/1904.05160v1), ZiweiLiu, ZhongqiMiao, XiaohangZhan, et al. (**CVPR, Oral, 2019**).[[code]](https://github.com/zhmiao/OpenLongTailRecognition-OLTR)
 - [Open Set Recognition Through Deep Neural Network Uncertainty: Does Out-of-Distribution Detection Require Generative Classifiers?](https://arxiv.org/abs/1908.09625v1), Martin Mundt, Iuliia Pliushch, Sagnik Majumder, Visvanathan Ramesh. (**ICCVW, 2019**).
-- [From Open Set to Closed Set: Counting Objects by Spatial Divide-and-Conquer](https://arxiv.org/abs/1908.06473), Haipeng Xiong, Hao Lu, Chengxin Liu, Liang Liu, Zhiguo Cao, Chunhua Shen. (**ICCV, 2019**). [[code]](https://github.com/xhp-hust-2018-2011/S-DCNet)
+<!-- - [From Open Set to Closed Set: Counting Objects by Spatial Divide-and-Conquer](https://arxiv.org/abs/1908.06473), Haipeng Xiong, Hao Lu, Chengxin Liu, Liang Liu, Zhiguo Cao, Chunhua Shen. (**ICCV, 2019**). [[code]](https://github.com/xhp-hust-2018-2011/S-DCNet) -->
 
 
 <a name="papers-osr-al"></a>
