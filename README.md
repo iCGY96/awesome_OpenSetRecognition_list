@@ -92,6 +92,7 @@
 - [Open Set Text Classification using Convolutional Neural Networks](http://www.cs.uccs.edu/~jkalita/papers/2017/SridhamaPrakhyaICON2017.pdf), Prakhya S, Venkataram V, Kalita J. (**NLPIR, 2018**).
 - [*Learning a Neural-network-based Representation for Open Set Recognition](https://arxiv.org/abs/1802.04365), Hassen M, Chan P K. (**arXiv, 2018**).
 - [*Unseen Class Discovery in Open-world Classification](https://arxiv.org/abs/1802.04365), Shu L, Xu H, Liu B. (**arXiv, 2018**).
+- [Reducing Network Agnostophobia](https://papers.nips.cc/paper/8129-reducing-network-agnostophobia), Akshay Raj Dhamija, Manuel Günther, Terrance E. Boult. (**NeurIPS 2018**). [**[code]**](https://github.com/Vastlab/Reducing-Network-Agnostophobia).
 
 ##### 2019
 - [The Importance of Metric Learning for Robotic Vision: Open Set Recognition and Active Learning](https://arxiv.org/abs/1902.10363), Benjamin J. Meyer, Tom Drummond. (**ICRA, 2019**).
@@ -99,10 +100,10 @@
 - [Classification-Reconstruction Learning for Open-Set Recognition](https://arxiv.org/abs/1812.04246), Ryota Yoshihashi, Wen Shao, Rei Kawakami, Shaodi You, Makoto Iida, Takeshi Naemura. (**CVPR, 2019**).
 - [*Alignment Based Matching Networks for One-Shot Classification and Open-Set Recognition](https://arxiv.org/abs/1903.06538), Paresh Malalur, Tommi Jaakkola. (**arXiv, 2019**).
 - [*Open-Set Recognition Using Intra-Class Splitting](https://arxiv.org/abs/1903.04774), Patrick Schlachter, Yiwen Liao, Bin Yang. (**EUSIPCO, 2019**).
-- [C2AE: Class Conditioned Auto-Encoder for Open-set Recognition](https://arxiv.org/abs/1904.01198v1), Poojan Oza, Vishal M Patel. (**CVPR, 2019, oral**).
 - [*Experiments on Open-Set Speaker Identification with Discriminatively Trained Neural Networks](https://arxiv.org/abs/1904.01269v1), Stefano Imoscopi, Volodya Grancharov, Sigurdur Sverrisson, Erlendur Karlsson, Harald Pobloth. (**arXiv, 2019**).
 - [Large-Scale Long-Tailed Recognition in an Open World](https://arxiv.org/abs/1904.05160v1), ZiweiLiu, ZhongqiMiao, XiaohangZhan, et al. (**CVPR, Oral, 2019**).[[code]](https://github.com/zhmiao/OpenLongTailRecognition-OLTR)
 - [Open Set Recognition Through Deep Neural Network Uncertainty: Does Out-of-Distribution Detection Require Generative Classifiers?](https://arxiv.org/abs/1908.09625v1), Martin Mundt, Iuliia Pliushch, Sagnik Majumder, Visvanathan Ramesh. (**ICCVW, 2019**).
+- [Deep Transfer Learning for Multiple Class Novelty Detection](https://arxiv.org/abs/1903.02196), Pramuditha Perera, Vishal M. Patel. (**CVPR, 2019**). [[code]](https://github.com/PramuPerera/TransferLearningNovelty)
 <!-- - [From Open Set to Closed Set: Counting Objects by Spatial Divide-and-Conquer](https://arxiv.org/abs/1908.06473), Haipeng Xiong, Hao Lu, Chengxin Liu, Liang Liu, Zhiguo Cao, Chunhua Shen. (**ICCV, 2019**). [[code]](https://github.com/xhp-hust-2018-2011/S-DCNet) -->
 
 
@@ -119,6 +120,8 @@
 
 ##### 2019
 - [Open-set human activity recognition based on micro-Doppler signatures](https://www.sciencedirect.com/science/article/pii/S003132031830270X), Yang Y, Hou C, Lang Y, et al. (**Pattern Recognition, 2019**).
+- [C2AE: Class Conditioned Auto-Encoder for Open-set Recognition](https://arxiv.org/abs/1904.01198v1), Poojan Oza, Vishal M Patel. (**CVPR, 2019, oral**).
+
 
 <a name="papers-osr-evt"></a>
 ### Extreme Value Theory-based
@@ -192,6 +195,7 @@
 - [Learning and the Unknown: Surveying Steps Toward Open World Recognition](https://www.vast.uccs.edu/~tboult/PAPERS/Learning_and_the_Unknown_Surveying_Steps_Toward_Open_World_Recognition_AAAI19.pdf), Terrance Boult, Steve Cruz, Akshay Dhamija, Manuel Günther, James Henrydoss,
 Walter J. Scheirer. (**AAAI, 2019**).
 - [Unified Probabilistic Deep Continual Learning through Generative Replay and Open Set Recognition](https://arxiv.org/abs/1905.12019v2). Martin Mundt, Sagnik Majumder, Iuliia Pliushch, Visvanathan Ramesh. (**arXiv 2019**).
+- [Open-world Learning and Application to Product Classification](https://arxiv.org/abs/1809.06004). Hu Xu, Bing Liu, Lei Shu, P. Yu. (**WWW 2019**). [**[code]**](https://github.com/howardhsu/Meta-Open-World-Learning)
 
 # License
 
