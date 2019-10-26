@@ -104,7 +104,7 @@
 - [Large-Scale Long-Tailed Recognition in an Open World](https://arxiv.org/abs/1904.05160v1), ZiweiLiu, ZhongqiMiao, XiaohangZhan, et al. (**CVPR, Oral, 2019**).[[code]](https://github.com/zhmiao/OpenLongTailRecognition-OLTR)
 - [Open Set Recognition Through Deep Neural Network Uncertainty: Does Out-of-Distribution Detection Require Generative Classifiers?](https://arxiv.org/abs/1908.09625v1), Martin Mundt, Iuliia Pliushch, Sagnik Majumder, Visvanathan Ramesh. (**ICCVW, 2019**).
 - [Deep Transfer Learning for Multiple Class Novelty Detection](https://arxiv.org/abs/1903.02196), Pramuditha Perera, Vishal M. Patel. (**CVPR, 2019**). [[code]](https://github.com/PramuPerera/TransferLearningNovelty)
-<!-- - [From Open Set to Closed Set: Counting Objects by Spatial Divide-and-Conquer](https://arxiv.org/abs/1908.06473), Haipeng Xiong, Hao Lu, Chengxin Liu, Liang Liu, Zhiguo Cao, Chunhua Shen. (**ICCV, 2019**). [[code]](https://github.com/xhp-hust-2018-2011/S-DCNet) -->
+- [From Open Set to Closed Set: Counting Objects by Spatial Divide-and-Conquer](https://arxiv.org/abs/1908.06473), Haipeng Xiong, Hao Lu, Chengxin Liu, Liang Liu, Zhiguo Cao, Chunhua Shen. (**ICCV, 2019**). [[code]](https://github.com/xhp-hust-2018-2011/S-DCNet)
 
 
 <a name="papers-osr-al"></a>
@@ -149,7 +149,8 @@
 ##### 2019
 - [Deep Anomaly Detection with Outlier Exposure](https://arxiv.org/abs/1812.04606), Dan Hendrycks, Mantas Mazeika, Thomas Dietterich. (**ICLR, 2019**). [**[code]**](https://github.com/hendrycks/outlier-exposure)
 - [Do Deep Generative Models Know What They Don't Know?](https://arxiv.org/abs/1810.09136). Eric Nalisnick, Akihiro Matsukawa, Yee Whye Teh, Dilan Gorur, Balaji Lakshminarayanan. (**ICLR, 2019**).
-- [Likelihood Ratios for Out-of-Distribution Detection](https://arxiv.org/abs/1906.02845), Jie Ren, Peter J. Liu, Emily Fertig, Jasper Snoek, Ryan Poplin, Mark A. DePristo, Joshua V. Dillon, Balaji Lakshminarayanan. (**NeurIPS 2019**)
+- [Likelihood Ratios for Out-of-Distribution Detection](https://arxiv.org/abs/1906.02845). Jie Ren, Peter J. Liu, Emily Fertig, Jasper Snoek, Ryan Poplin, Mark A. DePristo, Joshua V. Dillon, Balaji Lakshminarayanan. (**NeurIPS, 2019**)
+- [Unsupervised Out-of-Distribution Detection by Maximum Classifier Discrepancy](http://openaccess.thecvf.com/content_ICCV_2019/papers/Yu_Unsupervised_Out-of-Distribution_Detection_by_Maximum_Classifier_Discrepancy_ICCV_2019_paper.pdf). Qing Yu, Kiyoharu Aizawa. (**ICCV, 2019**)
 
 <a name="papers-osda"></a>
 ## Open Set Domain Adaptation
