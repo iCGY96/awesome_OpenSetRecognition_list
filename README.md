@@ -35,6 +35,8 @@
 
 - [Towards Open World Recognition](https://www.cv-foundation.org/openaccess/content_cvpr_2015/html/Bendale_Towards_Open_World_2015_CVPR_paper.html), Bendale A, Boult T. (**CVPR, 2015**).
 
+- [Lifelong Machine Learning](https://www.cs.uic.edu/~liub/lifelong-machine-learning.html), Zhiyuan Chen and Bing Liu. (**2018**).
+
 - [Recent Advances in Open Set Recognition: A Survey](https://arxiv.org/abs/1811.08581), Geng C, Huang S, Chen S. (**arXiv, 2018**).
 
 - [Recent Advances in Open Set Recognition: A Survey v2](https://arxiv.org/abs/1811.08581v2), Chuanxing Geng, Sheng-jun Huang, Songcan Chen. (**arXiv, 2019**).
@@ -179,6 +181,7 @@
 - [Towards Open World Recognition](https://www.cv-foundation.org/openaccess/content_cvpr_2015/html/Bendale_Towards_Open_World_2015_CVPR_paper.html), Bendale A, Boult T. (**CVPR, 2015**).
 
 ##### 2016
+- [Learning Cumulatively to Become More Knowledgeable](https://dl.acm.org/citation.cfm?id=2939835), Geli Fei, Shuai Wang, Bing Liu. (**KDD, 2016**).
 - [*Online open world recognition](https://arxiv.org/abs/1604.02275), De Rosa R, Mensink T, Caputo B. (**arXiv, 2016**).
 
 ##### 2017
