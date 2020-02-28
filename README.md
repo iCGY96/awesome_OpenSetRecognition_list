@@ -155,11 +155,14 @@
 - [Unsupervised Out-of-Distribution Detection by Maximum Classifier Discrepancy](http://openaccess.thecvf.com/content_ICCV_2019/papers/Yu_Unsupervised_Out-of-Distribution_Detection_by_Maximum_Classifier_Discrepancy_ICCV_2019_paper.pdf). Qing Yu, Kiyoharu Aizawa. (**ICCV, 2019**)
 - [Why ReLU networks yield high-confidence predictions far away from the training data and how to mitigate the problem](https://arxiv.org/abs/1812.05720). Matthias Hein, Maksym Andriushchenko, Julian Bitterwolf. (**CVPR 2019**). [**[code]**](https://github.com/max-andr/relu_networks_overconfident)
 - [Outlier Exposure with Confidence Control for Out-of-Distribution Detection](https://arxiv.org/abs/1906.03509). Aristotelis-Angelos Papadopoulos, Mohammad Reza Rajati, Nazim Shaikh, Jiamian Wang. (**ArXiv, 2019**). [**[code]**](https://github.com/nazim1021/OOD-detection-using-OECC)
+- [Using Self-Supervised Learning Can Improve Model Robustness and Uncertainty](https://arxiv.org/abs/1906.12340). Dan Hendrycks, Mantas Mazeika, Saurav Kadavath, Dawn Song. (**NeurIPS 2019**). [**[code]**](https://github.com/hendrycks/ss-ood)
 
 ##### 2020
 - [Input Complexity and Out-of-distribution Detection with Likelihood-based Generative Models](https://openreview.net/forum?id=SyxIWpVYvr). Joan Serrà, David Álvarez, Vicenç Gómez, Olga Slizovskaia, José F. Núñez, Jordi Luque. (**ICLR, 2020**)
+- [Generalized ODIN: Detecting Out-of-distribution Image without Learning from Out-of-distribution Data](https://arxiv.org/abs/2002.11297). Yen-Chang Hsu, Yilin Shen, Hongxia Jin, Zsolt Kira. (**CVPR 2020**)
 
-<a name="papers-odd"></a>
+
+<a name="papers-ad"></a>
 ## Anomaly Detection
 [need to survey more..](https://github.com/nazim1021/OOD-detection-using-OECC)
 
