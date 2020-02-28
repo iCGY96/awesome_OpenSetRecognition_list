@@ -164,7 +164,7 @@
 
 <a name="papers-ad"></a>
 ## Anomaly Detection
-[need to survey more..](https://github.com/nazim1021/OOD-detection-using-OECC)
+[need to survey more..](https://github.com/hoya012/awesome-anomaly-detection)
 
 ##### 2018
 - [Deep Anomaly Detection Using Geometric Transformations](https://arxiv.org/abs/1805.10917). Izhak Golan, Ran El-Yaniv. (**NeurIPS, 2018**). [**[code]**](https://github.com/izikgo/AnomalyDetectionTransformations).
