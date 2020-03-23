@@ -169,6 +169,9 @@
 ##### 2018
 - [Deep Anomaly Detection Using Geometric Transformations](https://arxiv.org/abs/1805.10917). Izhak Golan, Ran El-Yaniv. (**NeurIPS, 2018**). [**[code]**](https://github.com/izikgo/AnomalyDetectionTransformations).
 
+##### 2019
+- [A Benchmark for Anomaly Segmentation](https://arxiv.org/abs/1911.11132). Dan Hendrycks, Steven Basart, Mantas Mazeika, Mohammadreza Mostajabi, Jacob Steinhardt, Dawn Song. (**Arixv 2019**). [**[code]**](https://github.com/hendrycks/anomaly-seg).
+
 ##### 2020
 - [Classification-Based Anomaly Detection for General Data](https://openreview.net/forum?id=H1lK_lBtvS). Liron Bergman, Yedid Hoshen. (**ICLR, 2020**).
 
