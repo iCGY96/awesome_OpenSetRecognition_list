@@ -15,8 +15,6 @@
 	- [Open Set Recognition](#papers-osr)
     	- [Traditional Machine Learning Methods-based](#papers-osr-ml)
     	- [Deep Neural Network-based](#papers-osr-dnn)
-    	- [Adversarial Learning-based](#papers-osr-al)
-    	- [EVT-based](#papers-osr-evt)
   	- [Out-of-Distribution](#papers-odd)
   	- [Anomaly Detection](#papers-ad)
   	- [Open Set Domain Adaptation](#papers-osda)
@@ -88,6 +86,9 @@
 - [Weightless neural networks for open set recognition](https://link.springer.com/article/10.1007/s10994-017-5646-4), Cardoso D O, Gama J, França F M G. (**Machine Learning, 2017**).
 - [Adversarial Robustness: Softmax versus Openmax](https://arxiv.org/abs/1708.01697), Rozsa A, Günther M, Boult T E. (**arXiv, 2017**).
 - [DOC: Deep open classification of text documents](https://arxiv.org/abs/1709.08716), Shu L, Xu H, Liu B. Doc. (**arXiv, 2017**). [**[code]**](https://github.com/alexander-rakhlin/CNN-for-Sentence-Classification-in-Keras).
+- [Generative openmax for multi-class open set classification](https://arxiv.org/abs/1707.07418), Ge Z Y, Demyanov S, Chen Z, et al. (**arXiv, 2017**).
+- [Open-category classification by adversarial sample generation](https://arxiv.org/abs/1705.08722), Yu Y, Qu W Y, Li N, et al. (**IJCAI, 2017**). [**[code]**](https://github.com/eyounx/ASG)
+
 
 ##### 2018
 - [Open category detection with PAC guarantees](http://proceedings.mlr.press/v80/liu18e/liu18e.pdf), Si Liu, Risheek Garrepalli, Thomas G. Dietterich, Alan Fern, Dan Hendrycks. (**ICML, 2018**). [**[code]**](https://github.com/liusi2019/ocd).
@@ -95,6 +96,10 @@
 - [Learning a Neural-network-based Representation for Open Set Recognition](https://arxiv.org/abs/1802.04365), Hassen M, Chan P K. (**arXiv, 2018**).
 - [Unseen Class Discovery in Open-world Classification](https://arxiv.org/abs/1802.04365), Shu L, Xu H, Liu B. (**arXiv, 2018**).
 - [Reducing Network Agnostophobia](https://papers.nips.cc/paper/8129-reducing-network-agnostophobia), Akshay Raj Dhamija, Manuel Günther, Terrance E. Boult. (**NeurIPS 2018**). [**[code]**](https://github.com/Vastlab/Reducing-Network-Agnostophobia).
+- [Open Set Adversarial Examples](https://arxiv.org/abs/1809.02681), Zhedong Z, Liang Z, Zhilan H, et al. (**arXiv, 2018**).
+- [Open Set Learning with Counterfactual Images](https://link.springer.com/chapter/10.1007/978-3-030-01231-1_38), Neal L, Olson M, Fern X, et al. (**ECCV, 2018**). [**[code]**](https://github.com/lwneal/counterfactual-open-set)
+- [The extreme value machine](https://ieeexplore.ieee.org/abstract/document/7932895/), Rudd E M, Jain L P, Scheirer W J, et al. (**PAMI, 2018**). [**[code]**](https://github.com/EMRResearch/ExtremeValueMachine)
+- [Extreme Value Theory for Open Set Classification-GPD and GEV Classifiers](https://arxiv.org/abs/1808.09902), Vignotto E, Engelke S. (**arXiv, 2018**).
 
 ##### 2019
 - [The Importance of Metric Learning for Robotic Vision: Open Set Recognition and Active Learning](https://arxiv.org/abs/1902.10363), Benjamin J. Meyer, Tom Drummond. (**ICRA, 2019**).
@@ -107,34 +112,13 @@
 - [Open Set Recognition Through Deep Neural Network Uncertainty: Does Out-of-Distribution Detection Require Generative Classifiers?](https://arxiv.org/abs/1908.09625v1), Martin Mundt, Iuliia Pliushch, Sagnik Majumder, Visvanathan Ramesh. (**ICCVW, 2019**). [**[code]**](https://github.com/MrtnMndt/Deep_Openset_Recognition_through_Uncertainty)
 - [Deep Transfer Learning for Multiple Class Novelty Detection](https://arxiv.org/abs/1903.02196), Pramuditha Perera, Vishal M. Patel. (**CVPR, 2019**). [[code]](https://github.com/PramuPerera/TransferLearningNovelty)
 - [From Open Set to Closed Set: Counting Objects by Spatial Divide-and-Conquer](https://arxiv.org/abs/1908.06473), Haipeng Xiong, Hao Lu, Chengxin Liu, Liang Liu, Zhiguo Cao, Chunhua Shen. (**ICCV, 2019**). [[code]](https://github.com/xhp-hust-2018-2011/S-DCNet)
-
-
-<a name="papers-osr-al"></a>
-### Adversarial Learning-based
-
-##### 2017
-- [Generative openmax for multi-class open set classification](https://arxiv.org/abs/1707.07418), Ge Z Y, Demyanov S, Chen Z, et al. (**arXiv, 2017**).
-- [Open-category classification by adversarial sample generation](https://arxiv.org/abs/1705.08722), Yu Y, Qu W Y, Li N, et al. (**IJCAI, 2017**). [**[code]**](https://github.com/eyounx/ASG)
-
-##### 2018
-- [Open Set Adversarial Examples](https://arxiv.org/abs/1809.02681), Zhedong Z, Liang Z, Zhilan H, et al. (**arXiv, 2018**).
-- [Open Set Learning with Counterfactual Images](https://link.springer.com/chapter/10.1007/978-3-030-01231-1_38), Neal L, Olson M, Fern X, et al. (**ECCV, 2018**). [**[code]**](https://github.com/lwneal/counterfactual-open-set)
-
-##### 2019
 - [Open-set human activity recognition based on micro-Doppler signatures](https://www.sciencedirect.com/science/article/pii/S003132031830270X), Yang Y, Hou C, Lang Y, et al. (**Pattern Recognition, 2019**).
 - [C2AE: Class Conditioned Auto-Encoder for Open-set Recognition](https://arxiv.org/abs/1904.01198v1), Poojan Oza, Vishal M Patel. (**CVPR, 2019, oral**).
-
-
-<a name="papers-osr-evt"></a>
-### Extreme Value Theory-based
-
-##### 2018
-- [The extreme value machine](https://ieeexplore.ieee.org/abstract/document/7932895/), Rudd E M, Jain L P, Scheirer W J, et al. (**PAMI, 2018**). [**[code]**](https://github.com/EMRResearch/ExtremeValueMachine)
-- [Extreme Value Theory for Open Set Classification-GPD and GEV Classifiers](https://arxiv.org/abs/1808.09902), Vignotto E, Engelke S. (**arXiv, 2018**).
-
-##### 2019
-- [Collective decision for open set recognition](https://arxiv.org/abs/1806.11258v4), Chuanxing Geng, Songcan Chen. (**arXiv, 2019**).
-
+  
+##### 2020
+- [Conditional Gaussian Distribution Learning for Open Set Recognition](https://arxiv.org/abs/2003.08823v2), Xin Sun, Zhenning Yang, Chi Zhang, Guohao Peng, Keck-Voon Ling. (**CVPR 2020**).
+- [OpenGAN: Open Set Generative Adversarial Networks](https://arxiv.org/abs/2003.08074v1), Luke Ditria, Benjamin J. Meyer, Tom Drummond. (**Submitted to ECCV 2020**)
+- [Collective decision for open set recognition](https://arxiv.org/abs/1806.11258v4), Chuanxing Geng, Songcan Chen. (**IEEE TKDE, 2020**).
 
 <a name="papers-odd"></a>
 ## Out-of-Distribution
