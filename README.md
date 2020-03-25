@@ -179,6 +179,10 @@
 - [Open Set Domain Adaptation for Image and Action Recognition](https://arxiv.org/abs/1907.12865v1), Pau Panareda Busto, Ahsan Iqbal, Juergen Gall. (**arXiv 2019**).
 - [Attract or Distract: Exploit the Margin of Open Set](https://arxiv.org/abs/1908.01925v2), Qianyu Feng, Guoliang Kang, Hehe Fan, Yi Yang. (**ICCV 2019**).
 
+##### 2020
+- [Collaborative Training of Balanced Random Forests for Open Set Domain Adaptation](https://arxiv.org/abs/2002.03642v1), Jongbin Ryu, Jiun Bae, Jongwoo Lim. (**ArXiv 2020**).
+- [Mind the Gap: Enlarging the Domain Gap in Open Set Domain Adaptation](https://arxiv.org/abs/2003.03787v2), Dongliang Chang, Aneeshan Sain, Zhanyu Ma, Yi-Zhe Song, Jun Guo. (**ArXiv 2020**). [**[code]**](https://github.com/dongliangchang/Mutual-to-Separate/)
+
 
 <a name="papers-owr"></a>
 ## Open World Recognition
