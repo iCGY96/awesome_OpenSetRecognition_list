@@ -119,6 +119,7 @@
 - [Conditional Gaussian Distribution Learning for Open Set Recognition](https://arxiv.org/abs/2003.08823v2), Xin Sun, Zhenning Yang, Chi Zhang, Guohao Peng, Keck-Voon Ling. (**CVPR 2020**).
 - [OpenGAN: Open Set Generative Adversarial Networks](https://arxiv.org/abs/2003.08074v1), Luke Ditria, Benjamin J. Meyer, Tom Drummond. (**Submitted to ECCV 2020**)
 - [Collective decision for open set recognition](https://arxiv.org/abs/1806.11258v4), Chuanxing Geng, Songcan Chen. (**IEEE TKDE, 2020**).
+- [One-vs-Rest Network-based Deep Probability Model for Open Set Recognition](https://arxiv.org/abs/2004.08067), Jaeyeon Jang, Chang Ouk Kim. (**arXiv 2020**)
 
 <a name="papers-odd"></a>
 ## Out-of-Distribution
@@ -129,7 +130,7 @@
 ##### 2018
 - [Enhancing The Reliability of Out-of-distribution Image Detection in Neural Networks](https://arxiv.org/abs/1706.02690). Shiyu Liang, Yixuan Li, R. Srikant. (**ICLR, 2018**). [**[code]**](https://github.com/facebookresearch/odin).
 - [Training Confidence-calibrated Classifiers for Detecting Out-of-Distribution Samples](https://arxiv.org/abs/1711.09325). Kimin Lee, Honglak Lee, Kibok Lee, Jinwoo Shin. (**ICLR, 2018**). [**[code]**](https://github.com/alinlab/Confident_classifier)
-- [WAIC, but Why? Generative Ensembles for Robust Anomaly Detection](https://arxiv.org/abs/1810.01392). Hyunsun Choi, Eric Jang, Alexander A. Alemi. (**ArXiv, 2018**).
+- [WAIC, but Why? Generative Ensembles for Robust Anomaly Detection](https://arxiv.org/abs/1810.01392). Hyunsun Choi, Eric Jang, Alexander A. Alemi. (**arXiv, 2018**).
 - [A Simple Unified Framework for Detecting Out-of-Distribution Samples and Adversarial Attacks](https://arxiv.org/abs/1807.03888). Kimin Lee, Kibok Lee, Honglak Lee, Jinwoo Shin. (**NeurIPS, 2018**). [**[code]**](https://github.com/pokaxpoka/deep_Mahalanobis_detector)
 
 ##### 2019
@@ -138,7 +139,7 @@
 - [Likelihood Ratios for Out-of-Distribution Detection](https://arxiv.org/abs/1906.02845). Jie Ren, Peter J. Liu, Emily Fertig, Jasper Snoek, Ryan Poplin, Mark A. DePristo, Joshua V. Dillon, Balaji Lakshminarayanan. (**NeurIPS, 2019**). [**[code]**](https://github.com/google-research/google-research/tree/master/genomics_ood)
 - [Unsupervised Out-of-Distribution Detection by Maximum Classifier Discrepancy](http://openaccess.thecvf.com/content_ICCV_2019/papers/Yu_Unsupervised_Out-of-Distribution_Detection_by_Maximum_Classifier_Discrepancy_ICCV_2019_paper.pdf). Qing Yu, Kiyoharu Aizawa. (**ICCV, 2019**)
 - [Why ReLU networks yield high-confidence predictions far away from the training data and how to mitigate the problem](https://arxiv.org/abs/1812.05720). Matthias Hein, Maksym Andriushchenko, Julian Bitterwolf. (**CVPR 2019**). [**[code]**](https://github.com/max-andr/relu_networks_overconfident)
-- [Outlier Exposure with Confidence Control for Out-of-Distribution Detection](https://arxiv.org/abs/1906.03509). Aristotelis-Angelos Papadopoulos, Mohammad Reza Rajati, Nazim Shaikh, Jiamian Wang. (**ArXiv, 2019**). [**[code]**](https://github.com/nazim1021/OOD-detection-using-OECC)
+- [Outlier Exposure with Confidence Control for Out-of-Distribution Detection](https://arxiv.org/abs/1906.03509). Aristotelis-Angelos Papadopoulos, Mohammad Reza Rajati, Nazim Shaikh, Jiamian Wang. (**arXiv, 2019**). [**[code]**](https://github.com/nazim1021/OOD-detection-using-OECC)
 - [Using Self-Supervised Learning Can Improve Model Robustness and Uncertainty](https://arxiv.org/abs/1906.12340). Dan Hendrycks, Mantas Mazeika, Saurav Kadavath, Dawn Song. (**NeurIPS 2019**). [**[code]**](https://github.com/hendrycks/ss-ood)
 
 ##### 2020
@@ -154,7 +155,7 @@
 - [Deep Anomaly Detection Using Geometric Transformations](https://arxiv.org/abs/1805.10917). Izhak Golan, Ran El-Yaniv. (**NeurIPS, 2018**). [**[code]**](https://github.com/izikgo/AnomalyDetectionTransformations).
 
 ##### 2019
-- [A Benchmark for Anomaly Segmentation](https://arxiv.org/abs/1911.11132). Dan Hendrycks, Steven Basart, Mantas Mazeika, Mohammadreza Mostajabi, Jacob Steinhardt, Dawn Song. (**Arixv 2019**). [**[code]**](https://github.com/hendrycks/anomaly-seg).
+- [A Benchmark for Anomaly Segmentation](https://arxiv.org/abs/1911.11132). Dan Hendrycks, Steven Basart, Mantas Mazeika, Mohammadreza Mostajabi, Jacob Steinhardt, Dawn Song. (**arXiv 2019**). [**[code]**](https://github.com/hendrycks/anomaly-seg).
 
 ##### 2020
 - [Classification-Based Anomaly Detection for General Data](https://openreview.net/forum?id=H1lK_lBtvS). Liron Bergman, Yedid Hoshen. (**ICLR, 2020**).
@@ -180,8 +181,8 @@
 - [Attract or Distract: Exploit the Margin of Open Set](https://arxiv.org/abs/1908.01925v2), Qianyu Feng, Guoliang Kang, Hehe Fan, Yi Yang. (**ICCV 2019**).
 
 ##### 2020
-- [Collaborative Training of Balanced Random Forests for Open Set Domain Adaptation](https://arxiv.org/abs/2002.03642v1), Jongbin Ryu, Jiun Bae, Jongwoo Lim. (**ArXiv 2020**).
-- [Mind the Gap: Enlarging the Domain Gap in Open Set Domain Adaptation](https://arxiv.org/abs/2003.03787v2), Dongliang Chang, Aneeshan Sain, Zhanyu Ma, Yi-Zhe Song, Jun Guo. (**ArXiv 2020**). [**[code]**](https://github.com/dongliangchang/Mutual-to-Separate/)
+- [Collaborative Training of Balanced Random Forests for Open Set Domain Adaptation](https://arxiv.org/abs/2002.03642v1), Jongbin Ryu, Jiun Bae, Jongwoo Lim. (**arXiv 2020**).
+- [Mind the Gap: Enlarging the Domain Gap in Open Set Domain Adaptation](https://arxiv.org/abs/2003.03787v2), Dongliang Chang, Aneeshan Sain, Zhanyu Ma, Yi-Zhe Song, Jun Guo. (**arXiv 2020**). [**[code]**](https://github.com/dongliangchang/Mutual-to-Separate/)
 
 
 <a name="papers-owr"></a>
