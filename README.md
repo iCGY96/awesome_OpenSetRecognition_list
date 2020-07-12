@@ -120,6 +120,8 @@
 - [OpenGAN: Open Set Generative Adversarial Networks](https://arxiv.org/abs/2003.08074v1), Luke Ditria, Benjamin J. Meyer, Tom Drummond. (**Submitted to ECCV 2020**)
 - [Collective decision for open set recognition](https://arxiv.org/abs/1806.11258v4), Chuanxing Geng, Songcan Chen. (**IEEE TKDE, 2020**).
 - [One-vs-Rest Network-based Deep Probability Model for Open Set Recognition](https://arxiv.org/abs/2004.08067), Jaeyeon Jang, Chang Ouk Kim. (**arXiv 2020**)
+- [Hybrid Models for Open Set Recognition](https://arxiv.org/abs/2003.12506v1), Hongjie Zhang, Ang Li, Jie Guo, Yanwen Guo. (**ECCV 2020**).
+- [Learning Open Set Network with Discriminative Reciprocal Points](https://arxiv.org/abs/), Guangyao Chen, Limeng Qiao, Yemin Shi, Peixi Peng, Jia Li, Tiejun Huang, Shiliang Pu, Yonghong Tian. (**ECCV 2020**)
 
 <a name="papers-odd"></a>
 ## Out-of-Distribution
