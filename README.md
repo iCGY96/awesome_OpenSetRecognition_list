@@ -122,6 +122,9 @@
 - [One-vs-Rest Network-based Deep Probability Model for Open Set Recognition](https://arxiv.org/abs/2004.08067), Jaeyeon Jang, Chang Ouk Kim. (**arXiv 2020**)
 - [Hybrid Models for Open Set Recognition](https://arxiv.org/abs/2003.12506v1), Hongjie Zhang, Ang Li, Jie Guo, Yanwen Guo. (**ECCV 2020**).
 - [Learning Open Set Network with Discriminative Reciprocal Points](https://arxiv.org/abs/), Guangyao Chen, Limeng Qiao, Yemin Shi, Peixi Peng, Jia Li, Tiejun Huang, Shiliang Pu, Yonghong Tian. (**ECCV 2020**)
+- [Class Anchor Clustering: a Distance-based Loss for Training Open Set Classifiers](https://arxiv.org/abs/2004.02434v2), Dimity Miller, Niko Sünderhauf, Michael Milford, Feras Dayoub. (**ArXiv 2020**)
+- [MMF: A loss extension for feature learning in open set recognition](https://arxiv.org/abs/2006.15117v1), Jingyun Jia, Philip K. Chan. (**ArXiv 2020**)
+- [Fully Convolutional Open Set Segmentation](https://arxiv.org/abs/2006.14673v1), Hugo Oliveira, Caio Silva, Gabriel L. S. Machado, Keiller Nogueira, Jefersson A. dos Santos. (**ArXiv 2020**)
 
 <a name="papers-odd"></a>
 ## Out-of-Distribution
@@ -147,7 +150,14 @@
 ##### 2020
 - [Input Complexity and Out-of-distribution Detection with Likelihood-based Generative Models](https://openreview.net/forum?id=SyxIWpVYvr). Joan Serrà, David Álvarez, Vicenç Gómez, Olga Slizovskaia, José F. Núñez, Jordi Luque. (**ICLR, 2020**)
 - [Generalized ODIN: Detecting Out-of-distribution Image without Learning from Out-of-distribution Data](https://arxiv.org/abs/2002.11297). Yen-Chang Hsu, Yilin Shen, Hongxia Jin, Zsolt Kira. (**CVPR 2020**)
-
+- [Soft Labeling Affects Out-of-Distribution Detection of Deep Neural Networks](https://arxiv.org/abs/2007.03212v1). Doyup Lee, Yeongjae Cheon. (**ICML 2020 Workshop on Uncertainty and Robustness in Deep Learning**)
+- [The Many Faces of Robustness: A Critical Analysis of Out-of-Distribution Generalization](https://arxiv.org/abs/2006.16241v1). Dan Hendrycks, Steven Basart, Norman Mu, Saurav Kadavath, Frank Wang, Evan Dorundo, Rahul Desai, Tyler Zhu, Samyak Parajuli, Mike Guo, Dawn Song, Jacob Steinhardt, Justin Gilmer. (**ArXiv 2020**). [**[code]**](https://github.com/hendrycks/imagenet-r)
+- [The Effect of Optimization Methods on the Robustness of Out-of-Distribution Detection Approaches](https://arxiv.org/abs/2006.14584v1). Vahdat Abdelzad, Krzysztof Czarnecki, Rick Salay. (**ArXiv 2020**)
+- [Density of States Estimation for Out-of-Distribution Detection](https://arxiv.org/abs/2006.09273v2). Warren R. Morningstar, Cusuh Ham, Andrew G. Gallagher, Balaji Lakshminarayanan, Alexander A. Alemi, Joshua V. Dillon. (**ArXiv 2020**)
+- [Revisiting One-vs-All Classifiers for Predictive Uncertainty and Out-of-Distribution Detection in Neural Networks](https://arxiv.org/abs/2007.05134v1). Shreyas Padhy, Zachary Nado, Jie Ren, Jeremiah Liu, Jasper Snoek, Balaji Lakshminarayanan. (**ArXiv 2020**)
+- [Provable Worst Case Guarantees for the Detection of Out-of-Distribution Data](https://arxiv.org/abs/2007.08473v1). Julian Bitterwolf, Alexander Meinke, Matthias Hein. (**ArXiv 2020**). [**[code]**](https://gitlab.com/Bitterwolf/GOOD)
+- [BaCOUn: Bayesian Classifers with Out-of-Distribution Uncertainty](https://arxiv.org/abs/2007.06096v1). Théo Guénais, Dimitris Vamvourellis, Yaniv Yacoby, Finale Doshi-Velez, Weiwei Pan. (**ICML 2020 Workshop on Uncertainty and Robustness in Deep Learning**)
+- [Contrastive Training for Improved Out-of-Distribution Detection](https://arxiv.org/abs/2007.05566v1). Jim Winkens, Rudy Bunel, Abhijit Guha Roy, Robert Stanforth, Vivek Natarajan, Joseph R. Ledsam, Patricia MacWilliams, Pushmeet Kohli, Alan Karthikesalingam, Simon Kohl, Taylan Cemgil, S. M. Ali Eslami, Olaf Ronneberger. (**ArXiv 2020**)
 
 <a name="papers-ad"></a>
 ## Anomaly Detection
@@ -185,7 +195,9 @@
 ##### 2020
 - [Collaborative Training of Balanced Random Forests for Open Set Domain Adaptation](https://arxiv.org/abs/2002.03642v1), Jongbin Ryu, Jiun Bae, Jongwoo Lim. (**arXiv 2020**).
 - [Mind the Gap: Enlarging the Domain Gap in Open Set Domain Adaptation](https://arxiv.org/abs/2003.03787v2), Dongliang Chang, Aneeshan Sain, Zhanyu Ma, Yi-Zhe Song, Jun Guo. (**arXiv 2020**). [**[code]**](https://github.com/dongliangchang/Mutual-to-Separate/)
-
+- [On the Effectiveness of Image Rotation for Open Set Domain Adaptation](https://arxiv.org/abs/2007.12360v1), Silvia Bucci, Mohammad Reza Loghmani, Tatiana Tommasi. (**ECCV 2020**). [**[code]**](https://github.com/silvia1993/ROS)
+- [Open Set Domain Adaptation with Multi-Classifier Adversarial Network](https://arxiv.org/abs/2007.00384v2), Tasfia Shermin, Guojun Lu, Shyh Wei Teng, Manzur Murshed, Ferdous Sohel. (**arXiv 2020**).
+- [Bridging the Theoretical Bound and Deep Algorithms for Open Set Domain Adaptation](https://arxiv.org/abs/2006.13022v1), Li Zhong, Zhen Fang, Feng Liu, Bo Yuan, Guangquan Zhang, Jie Lu. (**arXiv 2020**).
 
 <a name="papers-owr"></a>
 ## Open World Recognition
