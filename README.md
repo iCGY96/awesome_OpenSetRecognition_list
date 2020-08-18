@@ -121,10 +121,12 @@
 - [Collective decision for open set recognition](https://arxiv.org/abs/1806.11258v4), Chuanxing Geng, Songcan Chen. (**IEEE TKDE, 2020**).
 - [One-vs-Rest Network-based Deep Probability Model for Open Set Recognition](https://arxiv.org/abs/2004.08067), Jaeyeon Jang, Chang Ouk Kim. (**arXiv 2020**)
 - [Hybrid Models for Open Set Recognition](https://arxiv.org/abs/2003.12506v1), Hongjie Zhang, Ang Li, Jie Guo, Yanwen Guo. (**ECCV 2020**).
-- [Learning Open Set Network with Discriminative Reciprocal Points](https://arxiv.org/abs/), Guangyao Chen, Limeng Qiao, Yemin Shi, Peixi Peng, Jia Li, Tiejun Huang, Shiliang Pu, Yonghong Tian. (**ECCV 2020**)
+- [Learning Open Set Network with Discriminative Reciprocal Points](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123480511.pdf), Guangyao Chen, Limeng Qiao, Yemin Shi, Peixi Peng, Jia Li, Tiejun Huang, Shiliang Pu, Yonghong Tian. (**ECCV 2020**)
 - [Class Anchor Clustering: a Distance-based Loss for Training Open Set Classifiers](https://arxiv.org/abs/2004.02434v2), Dimity Miller, Niko Sünderhauf, Michael Milford, Feras Dayoub. (**ArXiv 2020**)
 - [MMF: A loss extension for feature learning in open set recognition](https://arxiv.org/abs/2006.15117v1), Jingyun Jia, Philip K. Chan. (**ArXiv 2020**)
 - [Fully Convolutional Open Set Segmentation](https://arxiv.org/abs/2006.14673v1), Hugo Oliveira, Caio Silva, Gabriel L. S. Machado, Keiller Nogueira, Jefersson A. dos Santos. (**ArXiv 2020**)
+- [S2OSC: A Holistic Semi-Supervised Approach for Open Set Classification](https://arxiv.org/abs/2008.04662v1). Yang Yang, Zhen-Qiang Sun, Hui Xiong, Jian Yang. (**ArXiv 2020**)
+- [Open Set Recognition with Conditional Probabilistic Generative Models](https://arxiv.org/abs/2008.05129v1). Xin Sun, Chi Zhang, Guosheng Lin, Keck-Voon Ling. (**ArXiv 2020**)
 
 <a name="papers-odd"></a>
 ## Out-of-Distribution
