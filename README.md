@@ -201,6 +201,7 @@
 - [Open Set Domain Adaptation with Multi-Classifier Adversarial Network](https://arxiv.org/abs/2007.00384v2), Tasfia Shermin, Guojun Lu, Shyh Wei Teng, Manzur Murshed, Ferdous Sohel. (**arXiv 2020**).
 - [Bridging the Theoretical Bound and Deep Algorithms for Open Set Domain Adaptation](https://arxiv.org/abs/2006.13022v1), Li Zhong, Zhen Fang, Feng Liu, Bo Yuan, Guangquan Zhang, Jie Lu. (**arXiv 2020**).
 - [Progressive Graph Learning for Open-Set Domain Adaptation](https://arxiv.org/abs/2006.12087), Yadan Luo, Zijian Wang, Zi Huang, Mahsa Baktashmotlagh. (**ICML 2020**).
+- [Adversarial Network with Multiple Classifiers for Open Set Domain Adaptation](https://arxiv.org/abs/2007.00384), Tasfia Shermin, Guojun Lu, Shyh Wei Teng, Manzur Murshed, Ferdous Sohel. (**IEEE TMM 2020**). [**[code]**](https://github.com/tasfia/DAMC)
 
 <a name="papers-owr"></a>
 ## Open World Recognition
