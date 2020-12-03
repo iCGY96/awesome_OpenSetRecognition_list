@@ -117,7 +117,9 @@
   
 ##### 2020
 - [Conditional Gaussian Distribution Learning for Open Set Recognition](https://arxiv.org/abs/2003.08823v2), Xin Sun, Zhenning Yang, Chi Zhang, Guohao Peng, Keck-Voon Ling. (**CVPR 2020**). [[code]](https://github.com/BraveGump/CGDL-for-Open-Set-Recognition).
-- [OpenGAN: Open Set Generative Adversarial Networks](https://arxiv.org/abs/2003.08074v1), Luke Ditria, Benjamin J. Meyer, Tom Drummond. (**Submitted to ECCV 2020**)
+- [Generative-discriminative Feature Representations for Open-set Recognition](https://openaccess.thecvf.com/content_CVPR_2020/papers/Perera_Generative-Discriminative_Feature_Representations_for_Open-Set_Recognition_CVPR_2020_paper.pdf), Pramuditha Perera, Vlad I. Morariu, Rajiv Jain, Varun Manjunatha, Curtis Wigington, Vicente Ordonez, Vishal M. Patel. (**CVPR 2020**).
+- [Few-Shot Open-Set Recognition Using Meta-Learning](https://openaccess.thecvf.com/content_CVPR_2020/html/Liu_Few-Shot_Open-Set_Recognition_Using_Meta-Learning_CVPR_2020_paper.html), Bo Liu, Hao Kang, Haoxiang Li, Gang Hua, Nuno Vasconcelos. (**CVPR 2020**)
+- [OpenGAN: Open Set Generative Adversarial Networks](https://arxiv.org/abs/2003.08074v1), Luke Ditria, Benjamin J. Meyer, Tom Drummond. (**arXiv 2020**)
 - [Collective decision for open set recognition](https://arxiv.org/abs/1806.11258v4), Chuanxing Geng, Songcan Chen. (**IEEE TKDE, 2020**).
 - [One-vs-Rest Network-based Deep Probability Model for Open Set Recognition](https://arxiv.org/abs/2004.08067), Jaeyeon Jang, Chang Ouk Kim. (**arXiv 2020**)
 - [Hybrid Models for Open Set Recognition](https://arxiv.org/abs/2003.12506v1), Hongjie Zhang, Ang Li, Jie Guo, Yanwen Guo. (**ECCV 2020**).
@@ -197,6 +199,8 @@
 ##### 2020
 - [Collaborative Training of Balanced Random Forests for Open Set Domain Adaptation](https://arxiv.org/abs/2002.03642v1), Jongbin Ryu, Jiun Bae, Jongwoo Lim. (**arXiv 2020**).
 - [Mind the Gap: Enlarging the Domain Gap in Open Set Domain Adaptation](https://arxiv.org/abs/2003.03787v2), Dongliang Chang, Aneeshan Sain, Zhanyu Ma, Yi-Zhe Song, Jun Guo. (**arXiv 2020**). [**[code]**](https://github.com/dongliangchang/Mutual-to-Separate/)
+- [Towards Inheritable Models for Open-Set Domain Adaptation](https://openaccess.thecvf.com/content_CVPR_2020/html/Kundu_Towards_Inheritable_Models_for_Open-Set_Domain_Adaptation_CVPR_2020_paper.html), Jogendra Nath Kundu, Naveen Venkat, Ambareesh Revanur, Rahul M V, R. Venkatesh Babu. (**CVPR 2020**)
+- [Exploring Category-Agnostic Clusters for Open-Set Domain Adaptation](https://openaccess.thecvf.com/content_CVPR_2020/html/Pan_Exploring_Category-Agnostic_Clusters_for_Open-Set_Domain_Adaptation_CVPR_2020_paper.html), Yingwei Pan, Ting Yao, Yehao Li, Chong-Wah Ngo, Tao Mei. (**CVPR 2020**)
 - [On the Effectiveness of Image Rotation for Open Set Domain Adaptation](https://arxiv.org/abs/2007.12360v1), Silvia Bucci, Mohammad Reza Loghmani, Tatiana Tommasi. (**ECCV 2020**). [**[code]**](https://github.com/silvia1993/ROS)
 - [Open Set Domain Adaptation with Multi-Classifier Adversarial Network](https://arxiv.org/abs/2007.00384v2), Tasfia Shermin, Guojun Lu, Shyh Wei Teng, Manzur Murshed, Ferdous Sohel. (**arXiv 2020**).
 - [Bridging the Theoretical Bound and Deep Algorithms for Open Set Domain Adaptation](https://arxiv.org/abs/2006.13022v1), Li Zhong, Zhen Fang, Feng Liu, Bo Yuan, Guangquan Zhang, Jie Lu. (**arXiv 2020**).
