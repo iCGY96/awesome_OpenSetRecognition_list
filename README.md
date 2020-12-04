@@ -124,6 +124,8 @@
 - [One-vs-Rest Network-based Deep Probability Model for Open Set Recognition](https://arxiv.org/abs/2004.08067), Jaeyeon Jang, Chang Ouk Kim. (**arXiv 2020**)
 - [Hybrid Models for Open Set Recognition](https://arxiv.org/abs/2003.12506v1), Hongjie Zhang, Ang Li, Jie Guo, Yanwen Guo. (**ECCV 2020**).
 - [Learning Open Set Network with Discriminative Reciprocal Points](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123480511.pdf), Guangyao Chen, Limeng Qiao, Yemin Shi, Peixi Peng, Jia Li, Tiejun Huang, Shiliang Pu, Yonghong Tian. (**ECCV 2020**)
+- [Open-set Adversarial Defense](https://arxiv.org/abs/2009.00814v1), Rui Shao, Pramuditha Perera, Pong C. Yuen, Vishal M. Patel. (**ECCV 2020**)
+- [Multi-Task Curriculum Framework for Open-Set Semi-Supervised Learning](https://arxiv.org/abs/2007.11330v1), Qing Yu, Daiki Ikami, Go Irie, Kiyoharu Aizawa. (**ECCV 2020**)
 - [Class Anchor Clustering: a Distance-based Loss for Training Open Set Classifiers](https://arxiv.org/abs/2004.02434v2), Dimity Miller, Niko Sünderhauf, Michael Milford, Feras Dayoub. (**ArXiv 2020**)
 - [MMF: A loss extension for feature learning in open set recognition](https://arxiv.org/abs/2006.15117v1), Jingyun Jia, Philip K. Chan. (**ArXiv 2020**)
 - [Fully Convolutional Open Set Segmentation](https://arxiv.org/abs/2006.14673v1), Hugo Oliveira, Caio Silva, Gabriel L. S. Machado, Keiller Nogueira, Jefersson A. dos Santos. (**ArXiv 2020**)
@@ -159,9 +161,12 @@
 - [The Effect of Optimization Methods on the Robustness of Out-of-Distribution Detection Approaches](https://arxiv.org/abs/2006.14584v1). Vahdat Abdelzad, Krzysztof Czarnecki, Rick Salay. (**ArXiv 2020**)
 - [Density of States Estimation for Out-of-Distribution Detection](https://arxiv.org/abs/2006.09273v2). Warren R. Morningstar, Cusuh Ham, Andrew G. Gallagher, Balaji Lakshminarayanan, Alexander A. Alemi, Joshua V. Dillon. (**ArXiv 2020**)
 - [Revisiting One-vs-All Classifiers for Predictive Uncertainty and Out-of-Distribution Detection in Neural Networks](https://arxiv.org/abs/2007.05134v1). Shreyas Padhy, Zachary Nado, Jie Ren, Jeremiah Liu, Jasper Snoek, Balaji Lakshminarayanan. (**ArXiv 2020**)
-- [Provable Worst Case Guarantees for the Detection of Out-of-Distribution Data](https://arxiv.org/abs/2007.08473v1). Julian Bitterwolf, Alexander Meinke, Matthias Hein. (**ArXiv 2020**). [**[code]**](https://gitlab.com/Bitterwolf/GOOD)
 - [BaCOUn: Bayesian Classifers with Out-of-Distribution Uncertainty](https://arxiv.org/abs/2007.06096v1). Théo Guénais, Dimitris Vamvourellis, Yaniv Yacoby, Finale Doshi-Velez, Weiwei Pan. (**ICML 2020 Workshop on Uncertainty and Robustness in Deep Learning**)
 - [Contrastive Training for Improved Out-of-Distribution Detection](https://arxiv.org/abs/2007.05566v1). Jim Winkens, Rudy Bunel, Abhijit Guha Roy, Robert Stanforth, Vivek Natarajan, Joseph R. Ledsam, Patricia MacWilliams, Pushmeet Kohli, Alan Karthikesalingam, Simon Kohl, Taylan Cemgil, S. M. Ali Eslami, Olaf Ronneberger. (**ArXiv 2020**)
+- [OOD-MAML: Meta-Learning for Few-Shot Out-of-Distribution Detection and Classification](https://proceedings.neurips.cc/paper/2020/file/28e209b61a52482a0ae1cb9f5959c792-Paper.pdf), Taewon Jeong, Heeyoung Kim. (**NeurIPS 2020**).
+- [CSI: Novelty Detection via Contrastive Learning on Distributionally Shifted Instances](https://arxiv.org/abs/2007.08176), Jihoon Tack, Sangwoo Mo, Jongheon Jeong, Jinwoo Shin. (**NeurIPS 2020**). [**[code]**](https://github.com/alinlab/CSI).
+- [Iterative VAE as a predictive brain model for out-of-distribution generalization](https://openreview.net/forum?id=jE6SlVTOFPV), Victor Boutin, Aimen Zerroug, Minju Jung, Thomas Serre. (**NeurIPS 2020 Workshop SVRHM**).
+- [Certifiably Adversarially Robust Detection of Out-of-Distribution Data](https://arxiv.org/abs/2007.08473v2), Julian Bitterwolf, Alexander Meinke, Matthias Hein. (**NeurIPS 2020**). [**[code]**](https://gitlab.com/Bitterwolf/GOOD).
 
 <a name="papers-ad"></a>
 ## Anomaly Detection
