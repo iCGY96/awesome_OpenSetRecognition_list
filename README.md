@@ -143,6 +143,7 @@
 - [Training Confidence-calibrated Classifiers for Detecting Out-of-Distribution Samples](https://arxiv.org/abs/1711.09325). Kimin Lee, Honglak Lee, Kibok Lee, Jinwoo Shin. (**ICLR, 2018**). [**[code]**](https://github.com/alinlab/Confident_classifier)
 - [WAIC, but Why? Generative Ensembles for Robust Anomaly Detection](https://arxiv.org/abs/1810.01392). Hyunsun Choi, Eric Jang, Alexander A. Alemi. (**arXiv, 2018**).
 - [A Simple Unified Framework for Detecting Out-of-Distribution Samples and Adversarial Attacks](https://arxiv.org/abs/1807.03888). Kimin Lee, Kibok Lee, Honglak Lee, Jinwoo Shin. (**NeurIPS, 2018**). [**[code]**](https://github.com/pokaxpoka/deep_Mahalanobis_detector)
+- [Predictive uncertainty estimation via prior networks](https://papers.nips.cc/paper/2018/hash/3ea2db50e62ceefceaf70a9d9a56a6f4-Abstract.html). Andrey Malinin, Mark Gales. (**NeurIPS, 2018**). 
 
 ##### 2019
 - [Deep Anomaly Detection with Outlier Exposure](https://arxiv.org/abs/1812.04606), Dan Hendrycks, Mantas Mazeika, Thomas Dietterich. (**ICLR, 2019**). [**[code]**](https://github.com/hendrycks/outlier-exposure)
@@ -152,6 +153,7 @@
 - [Why ReLU networks yield high-confidence predictions far away from the training data and how to mitigate the problem](https://arxiv.org/abs/1812.05720). Matthias Hein, Maksym Andriushchenko, Julian Bitterwolf. (**CVPR 2019**). [**[code]**](https://github.com/max-andr/relu_networks_overconfident)
 - [Outlier Exposure with Confidence Control for Out-of-Distribution Detection](https://arxiv.org/abs/1906.03509). Aristotelis-Angelos Papadopoulos, Mohammad Reza Rajati, Nazim Shaikh, Jiamian Wang. (**arXiv, 2019**). [**[code]**](https://github.com/nazim1021/OOD-detection-using-OECC)
 - [Using Self-Supervised Learning Can Improve Model Robustness and Uncertainty](https://arxiv.org/abs/1906.12340). Dan Hendrycks, Mantas Mazeika, Saurav Kadavath, Dawn Song. (**NeurIPS 2019**). [**[code]**](https://github.com/hendrycks/ss-ood)
+- [Evidential Deep Learning to Quantify Classification Uncertainty](https://papers.nips.cc/paper/2018/hash/a981f2b708044d6fb4a71a1463242520-Abstract.html). Murat Sensoy, Lance Kaplan, Melih Kandemir. (**NeurIPS 2019**). [**[code]**](https://github.com/dougbrion/pytorch-classification-uncertainty)
 
 ##### 2020
 - [Input Complexity and Out-of-distribution Detection with Likelihood-based Generative Models](https://openreview.net/forum?id=SyxIWpVYvr). Joan Serrà, David Álvarez, Vicenç Gómez, Olga Slizovskaia, José F. Núñez, Jordi Luque. (**ICLR, 2020**)
