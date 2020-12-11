@@ -167,6 +167,7 @@
 - [CSI: Novelty Detection via Contrastive Learning on Distributionally Shifted Instances](https://arxiv.org/abs/2007.08176), Jihoon Tack, Sangwoo Mo, Jongheon Jeong, Jinwoo Shin. (**NeurIPS 2020**). [**[code]**](https://github.com/alinlab/CSI).
 - [Iterative VAE as a predictive brain model for out-of-distribution generalization](https://openreview.net/forum?id=jE6SlVTOFPV), Victor Boutin, Aimen Zerroug, Minju Jung, Thomas Serre. (**NeurIPS 2020 Workshop SVRHM**).
 - [Certifiably Adversarially Robust Detection of Out-of-Distribution Data](https://arxiv.org/abs/2007.08473v2), Julian Bitterwolf, Alexander Meinke, Matthias Hein. (**NeurIPS 2020**). [**[code]**](https://gitlab.com/Bitterwolf/GOOD).
+- [Deep Evidential Regression](https://arxiv.org/abs/1910.02600), Alexander Amini, Wilko Schwarting, Ava Soleimany, Daniela Rus. (**NeurIPS 2020**). [**[code]**](https://github.com/aamini/evidential-deep-learning)
 
 <a name="papers-ad"></a>
 ## Anomaly Detection
