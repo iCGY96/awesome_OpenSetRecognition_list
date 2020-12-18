@@ -131,6 +131,7 @@
 - [Fully Convolutional Open Set Segmentation](https://arxiv.org/abs/2006.14673v1), Hugo Oliveira, Caio Silva, Gabriel L. S. Machado, Keiller Nogueira, Jefersson A. dos Santos. (**ArXiv 2020**)
 - [S2OSC: A Holistic Semi-Supervised Approach for Open Set Classification](https://arxiv.org/abs/2008.04662v1). Yang Yang, Zhen-Qiang Sun, Hui Xiong, Jian Yang. (**ArXiv 2020**)
 - [Open Set Recognition with Conditional Probabilistic Generative Models](https://arxiv.org/abs/2008.05129v1). Xin Sun, Chi Zhang, Guosheng Lin, Keck-Voon Ling. (**ArXiv 2020**)
+- [Convolutional Prototype Network for Open Set Recognition](https://ieeexplore.ieee.org/document/9296325). Hong-Ming Yang, Xu-Yao Zhang, Fei Yin, Qing Yang, Cheng-Lin Liu. (**PAMI 2020**)
 
 <a name="papers-odd"></a>
 ## Out-of-Distribution
