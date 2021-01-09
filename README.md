@@ -242,6 +242,14 @@ Walter J. Scheirer. (**AAAI, 2019**).
 - [Unified Probabilistic Deep Continual Learning through Generative Replay and Open Set Recognition](https://arxiv.org/abs/1905.12019v2). Martin Mundt, Sagnik Majumder, Iuliia Pliushch, Visvanathan Ramesh. (**arXiv 2019**).
 - [Open-world Learning and Application to Product Classification](https://arxiv.org/abs/1809.06004). Hu Xu, Bing Liu, Lei Shu, P. Yu. (**WWW 2019**). [**[code]**](https://github.com/howardhsu/Meta-Open-World-Learning)
 
+##### 2020
+- [Learning to discover novel visual categories via deep transfer clustering](https://openaccess.thecvf.com/content_ICCV_2019/papers/Han_Learning_to_Discover_Novel_Visual_Categories_via_Deep_Transfer_Clustering_ICCV_2019_paper.pdf), Kai Han, Andrea Vedaldi, Andrew Zisserman. (**ICCV 2019**).
+
+- [Automatically discovering and learning new visual categories with ranking statistics](https://openreview.net/forum?id=BJl2_nVFPB), Han, K., Rebuffi, S.A., Ehrhardt, S., Vedaldi, A., Zisserman. (**ICLR 2020**).
+
+- [OpenMix: Reviving Known Knowledge for Discovering Novel Visual Categories in An Open World](https://arxiv.org/abs/2004.05551), Zhun Zhong, Linchao Zhu, Zhiming Luo, Shaozi Li, Yi Yang, Nicu Sebe. (**arXiv 2020**).
+
+
 # License
 
 License [![CCBY-SA](https://i.creativecommons.org/l/by-sa/4.0/80x15.png)]()
