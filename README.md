@@ -133,6 +133,11 @@
 - [Open Set Recognition with Conditional Probabilistic Generative Models](https://arxiv.org/abs/2008.05129v1). Xin Sun, Chi Zhang, Guosheng Lin, Keck-Voon Ling. (**ArXiv 2020**)
 - [Convolutional Prototype Network for Open Set Recognition](https://ieeexplore.ieee.org/document/9296325). Hong-Ming Yang, Xu-Yao Zhang, Fei Yin, Qing Yang, Cheng-Lin Liu. (**PAMI 2020**)
 
+##### 2021
+- [Counterfactual Zero-Shot and Open-Set Visual Recognition](https://arxiv.org/abs/2103.00887). Zhongqi Yue, Tan Wang, Hanwang Zhang, Qianru Sun, Xian-Sheng Hua. (**CVPR 2021**).  [[code]](https://github.com/yue-zhongqi/gcm-cf).
+- [Adversarial Reciprocal Points Learning for Open Set Recognition](https://arxiv.org/abs/2103.00953). Guangyao Chen, Peixi Peng, Xiangqian Wang, Yonghong Tian. (**ArXiv 2021**). [[code]](https://github.com/iCGY96/ARPL).
+- [Deep Compact Polyhedral Conic Classifier for Open and Closed Set Recognition](https://arxiv.org/abs/2102.12570v1). Hakan Cevikalp, Bedirhan Uzun, Okan Köpüklü, Gurkan Ozturk.(**ArXiv 2021**)
+
 <a name="papers-odd"></a>
 ## Out-of-Distribution
 
