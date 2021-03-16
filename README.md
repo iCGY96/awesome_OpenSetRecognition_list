@@ -257,6 +257,9 @@ Walter J. Scheirer. (**AAAI, 2019**).
 
 - [OpenMix: Reviving Known Knowledge for Discovering Novel Visual Categories in An Open World](https://arxiv.org/abs/2004.05551), Zhun Zhong, Linchao Zhu, Zhiming Luo, Shaozi Li, Yi Yang, Nicu Sebe. (**arXiv 2020**).
 
+##### 2021
+- [Towards Open World Object Detection](https://arxiv.org/abs/2103.02603), K J Joseph, Salman Khan, Fahad Shahbaz Khan, Vineeth N Balasubramanian. (**CVPR 2021**). [**[code]**](https://github.com/JosephKJ/OWOD)
+
 
 # License
 
