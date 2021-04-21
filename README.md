@@ -139,6 +139,7 @@
 - [Deep Compact Polyhedral Conic Classifier for Open and Closed Set Recognition](https://arxiv.org/abs/2102.12570v1). Hakan Cevikalp, Bedirhan Uzun, Okan Köpüklü, Gurkan Ozturk.(**ArXiv 2021**)
 - [Learning Placeholders for Open-Set Recognition](https://arxiv.org/abs/2103.15086). Da-Wei Zhou, Han-Jia Ye, De-Chuan Zhan.(**CVPR 2021**)
 - [Teacher-Explorer-Student Learning: A Novel Learning Method for Open Set Recognition](http://arxiv.org/abs/2103.12871v1). Jaeyeon Jang, Chang Ouk Kim.(**ArXiv 2021**)
+- [OpenGAN: Open-Set Recognition via Open Data Generation](https://arxiv.org/abs/2104.02939v2). Shu Kong, Deva Ramanan. (**ArXiv 2021**). [[code]](https://github.com/aimerykong/OpenGAN).
 
 <a name="papers-odd"></a>
 ## Out-of-Distribution
