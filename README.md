@@ -140,6 +140,7 @@
 - [Learning Placeholders for Open-Set Recognition](https://arxiv.org/abs/2103.15086). Da-Wei Zhou, Han-Jia Ye, De-Chuan Zhan.(**CVPR 2021**)
 - [Teacher-Explorer-Student Learning: A Novel Learning Method for Open Set Recognition](http://arxiv.org/abs/2103.12871v1). Jaeyeon Jang, Chang Ouk Kim.(**ArXiv 2021**)
 - [OpenGAN: Open-Set Recognition via Open Data Generation](https://arxiv.org/abs/2104.02939v2). Shu Kong, Deva Ramanan. (**ArXiv 2021**). [[code]](https://github.com/aimerykong/OpenGAN).
+- [Conditional Variational Capsule Network for Open Set Recognition](https://arxiv.org/abs/2104.09159). Yunrui Guo, Guglielmo Camporese, Wenjing Yang, Alessandro Sperduti, Lamberto Ballan. (**ArXiv 2021**). [[code]](https://github.com/guglielmocamporese/cvaecaposr)
 
 <a name="papers-odd"></a>
 ## Out-of-Distribution
