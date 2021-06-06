@@ -19,6 +19,7 @@
 ## Contents
 
 - [Tutorials](#tutorials)
+- [Challenges](#challenges)
 
 - [Papers](#papers)
 	- [Open Set Recognition](#papers-osr)
@@ -49,43 +50,30 @@
 - [Recent Advances in Open Set Recognition: A Survey v2](https://arxiv.org/abs/1811.08581v2), Chuanxing Geng, Sheng-jun Huang, Songcan Chen. (**arXiv, 2019**).
 
 <a name="papers"></a>
+
+<a name="challenges"></a>
+# Challenges
+
+<a name="papers-osr"></a>
+## Open World Vision
+[Open World Image Classification Challenge](https://eval.ai/web/challenges/challenge-page/1041/overview), CVPR 2021.
+
+
 # Papers
 
 <a name="papers-osr"></a>
 ## Open Set Recognition
 
-<a name="papers-osr-ml"></a>
-### Traditional Machine Learning Methods-based
-
-##### 2019
-- [Specialized Support Vector Machines for Open-set Recognition](https://arxiv.org/abs/1606.03802v8), Pedro Ribeiro Mendes Júnior, Terrance E. Boult, Jacques Wainer, Anderson Rocha (**arXiv, 2019**).
-
-##### 2018
-- [Data-Fusion Techniques for Open-Set Recognition Problems](https://ieeexplore.ieee.org/abstract/document/8332940/), Neira M A C, Júnior P R M, Rocha A, et al. (**IEEE Access, 2018**).
-- [Towards open-set face recognition using hashing functions](https://ieeexplore.ieee.org/abstract/document/8272751/), Vareto R, Silva S, Costa F, et al. (**IJCB, 2018**). [**[code]**](https://github.com/rafaelvareto/HPLS-HFCN-openset).
-- [Learning to Separate Domains in Generalized Zero-Shot and Open Set Learning: a probabilistic perspective](https://arxiv.org/abs/1810.07368), Hanze Dong, Yanwei Fu, Leonid Sigal, Sung Ju Hwang, Yu-Gang Jiang, Xiangyang Xue. (**arXiv, 2018**).
-
-##### 2017
-- [Sparse representation-based open set recognition](https://ieeexplore.ieee.org/abstract/document/7577876/), Zhang H, Patel V M. (**PAMI, 2017**).
-- [Best fitting hyperplanes for classification](https://ieeexplore.ieee.org/abstract/document/7506010/), Cevikalp H. (**PAMI, 2017**). [**[code]**](http://mlcv.ogu.edu.tr/softwarefh.html).
-- [Polyhedral conic classifiers for visual object detection and classification](http://openaccess.thecvf.com/content_cvpr_2017/papers/Cevikalp_Polyhedral_Conic_Classifiers_CVPR_2017_paper.pdf), Cevikalp H, Triggs B. Rigling B D. (**CVPR, 2017**).
-- [Fast and Accurate Face Recognition with Image Sets](http://openaccess.thecvf.com/content_ICCV_2017_workshops/papers/w23/Cevikalp_Fast_and_Accurate_ICCV_2017_paper.pdf), Cevikalp H, Yavuz H S. (**ICCVW, 2017**). [**[code]**](https://github.com/hezhangsprinter/SROSR)
-- [Nearest neighbors distance ratio open-set classifier](https://link.springer.com/article/10.1007/s10994-016-5610-8), Júnior P R M, de Souza R M, Werneck R O, et al. (**Machine Learning, 2017**).
-
-##### 2016
-- [Breaking the closed world assumption in text classification](http://www.aclweb.org/anthology/N16-1061), Fei G, Liu B. (**NAACL, 2016**).
-
-##### 2014
-- [Probability models for open set recognition](https://ieeexplore.ieee.org/abstract/document/6809169/), Scheirer W J, Jain L P, Boult T E. (**PAMI, 2014**). [**[code]**](https://github.com/ljain2/libsvm-openset).
-- [Multi-class open set recognition using probability of inclusion](https://link.springer.com/chapter/10.1007/978-3-319-10578-9_26), Jain L P, Scheirer W J, Boult T E. (**ECCV, 2014**). [**[code]**](https://github.com/ljain2/libsvm-openset).
-
-##### 2013
-- [Toward Open Set Recognition](https://ieeexplore.ieee.org/abstract/document/6365193), Scheirer W J, de Rezende Rocha A, Sapkota A, et al. (**PAMI, 2013**).[**[code]**](https://github.com/ljain2/libsvm-openset).
-
 <a name="papers-osr-dnn"></a>
 ### Deep Neural Network-based
 
 ##### 2021
+- [OpenMatch: Open-set Consistency Regularization for Semi-supervised Learning with Outliers](https://arxiv.org/abs/2105.14148v1). Kuniaki Saito, Donghyun Kim, Kate Saenko. (**ArXiv 2021**)
+- [Exemplar-Based Open-Set Panoptic Segmentation Network](https://arxiv.org/abs/2105.08336v2). Jaedong Hwang, Seoung Wug Oh, Joon-Young Lee, Bohyung Han. (**CVPR 2021**)
+- [Open-set Recognition based on the Combination of Deep Learning and Ensemble Method for Detecting Unknown Traffic Scenarios](https://arxiv.org/abs/2105.07635v1). Lakshman Balasubramanian, Friedrich Kruber, Michael Botsch, Ke Deng. (**IEEE Intelligent Vehicles 2021**)
+- [Open-set Face Recognition for Small Galleries Using Siamese Networks](https://arxiv.org/abs/2105.06967v1). Gabriel Salomon, Alceu Britto, Rafael H. Vareto, William R. Schwartz, David Menotti. (**ArXiv 2021**)
+- [MMF: A loss extension for feature learning in open set recognition](https://arxiv.org/abs/2006.15117v2). Jingyun Jia, Philip K. Chan. (**ArXiv 2021**).
+- [Self-supervised Detransformation Autoencoder for Representation Learning in Open Set Recognition](https://arxiv.org/abs/2105.13557v1). Jingyun Jia, Philip K. Chan. (**ArXiv 2021**).
 - [Counterfactual Zero-Shot and Open-Set Visual Recognition](https://arxiv.org/abs/2103.00887). Zhongqi Yue, Tan Wang, Hanwang Zhang, Qianru Sun, Xian-Sheng Hua. (**CVPR 2021**).  [[code]](https://github.com/yue-zhongqi/gcm-cf).
 - [Adversarial Reciprocal Points Learning for Open Set Recognition](https://arxiv.org/abs/2103.00953). Guangyao Chen, Peixi Peng, Xiangqian Wang, Yonghong Tian. (**ArXiv 2021**). [[code]](https://github.com/iCGY96/ARPL).
 - [Deep Compact Polyhedral Conic Classifier for Open and Closed Set Recognition](https://arxiv.org/abs/2102.12570v1). Hakan Cevikalp, Bedirhan Uzun, Okan Köpüklü, Gurkan Ozturk.(**ArXiv 2021**)
@@ -149,6 +137,37 @@
 
 ##### 2015
 - [A bounded neural network for open set recognition](https://ieeexplore.ieee.org/abstract/document/7280680/), Cardoso D O, França F, Gama J. (**IJCNN, 2015**).
+
+
+<a name="papers-osr-ml"></a>
+### Traditional Machine Learning Methods-based
+
+##### 2019
+- [Specialized Support Vector Machines for Open-set Recognition](https://arxiv.org/abs/1606.03802v8), Pedro Ribeiro Mendes Júnior, Terrance E. Boult, Jacques Wainer, Anderson Rocha (**arXiv, 2019**).
+
+##### 2018
+- [Data-Fusion Techniques for Open-Set Recognition Problems](https://ieeexplore.ieee.org/abstract/document/8332940/), Neira M A C, Júnior P R M, Rocha A, et al. (**IEEE Access, 2018**).
+- [Towards open-set face recognition using hashing functions](https://ieeexplore.ieee.org/abstract/document/8272751/), Vareto R, Silva S, Costa F, et al. (**IJCB, 2018**). [**[code]**](https://github.com/rafaelvareto/HPLS-HFCN-openset).
+- [Learning to Separate Domains in Generalized Zero-Shot and Open Set Learning: a probabilistic perspective](https://arxiv.org/abs/1810.07368), Hanze Dong, Yanwei Fu, Leonid Sigal, Sung Ju Hwang, Yu-Gang Jiang, Xiangyang Xue. (**arXiv, 2018**).
+
+##### 2017
+- [Sparse representation-based open set recognition](https://ieeexplore.ieee.org/abstract/document/7577876/), Zhang H, Patel V M. (**PAMI, 2017**).
+- [Best fitting hyperplanes for classification](https://ieeexplore.ieee.org/abstract/document/7506010/), Cevikalp H. (**PAMI, 2017**). [**[code]**](http://mlcv.ogu.edu.tr/softwarefh.html).
+- [Polyhedral conic classifiers for visual object detection and classification](http://openaccess.thecvf.com/content_cvpr_2017/papers/Cevikalp_Polyhedral_Conic_Classifiers_CVPR_2017_paper.pdf), Cevikalp H, Triggs B. Rigling B D. (**CVPR, 2017**).
+- [Fast and Accurate Face Recognition with Image Sets](http://openaccess.thecvf.com/content_ICCV_2017_workshops/papers/w23/Cevikalp_Fast_and_Accurate_ICCV_2017_paper.pdf), Cevikalp H, Yavuz H S. (**ICCVW, 2017**). [**[code]**](https://github.com/hezhangsprinter/SROSR)
+- [Nearest neighbors distance ratio open-set classifier](https://link.springer.com/article/10.1007/s10994-016-5610-8), Júnior P R M, de Souza R M, Werneck R O, et al. (**Machine Learning, 2017**).
+
+##### 2016
+- [Breaking the closed world assumption in text classification](http://www.aclweb.org/anthology/N16-1061), Fei G, Liu B. (**NAACL, 2016**).
+
+##### 2014
+- [Probability models for open set recognition](https://ieeexplore.ieee.org/abstract/document/6809169/), Scheirer W J, Jain L P, Boult T E. (**PAMI, 2014**). [**[code]**](https://github.com/ljain2/libsvm-openset).
+- [Multi-class open set recognition using probability of inclusion](https://link.springer.com/chapter/10.1007/978-3-319-10578-9_26), Jain L P, Scheirer W J, Boult T E. (**ECCV, 2014**). [**[code]**](https://github.com/ljain2/libsvm-openset).
+
+##### 2013
+- [Toward Open Set Recognition](https://ieeexplore.ieee.org/abstract/document/6365193), Scheirer W J, de Rezende Rocha A, Sapkota A, et al. (**PAMI, 2013**).[**[code]**](https://github.com/ljain2/libsvm-openset).
+
+
 
 <a name="papers-odd"></a>
 ## Out-of-Distribution
