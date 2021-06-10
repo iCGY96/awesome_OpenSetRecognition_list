@@ -173,6 +173,16 @@
 ## Out-of-Distribution
 
 ##### 2021
+- [Towards a Theoretical Framework of Out-of-Distribution Generalization](https://arxiv.org/abs/2106.04496v1). Haotian Ye, Chuanlong Xie, Tianle Cai, Ruichen Li, Zhenguo Li, Liwei Wang. (**ArXiv 2021**).
+- [Provably Robust Detection of Out-of-distribution Data (almost) for free](https://arxiv.org/abs/2106.04260v1). Alexander Meinke, Julian Bitterwolf, Matthias Hein. (**ArXiv 2021**).
+- [Fine-grained Out-of-Distribution Detection with Mixup Outlier Exposure](https://arxiv.org/abs/2106.03917v1). Jingyang Zhang, Nathan Inkawhich, Yiran Chen, Hai Li. (**ArXiv 2021**).
+- [Multi-task Transformation Learning for Robust Out-of-Distribution Detection](https://arxiv.org/abs/2106.03899v1). Sina Mohseni, Arash Vahdat, Jay Yadawa. (**ArXiv 2021**).
+- [OoD-Bench: Benchmarking and Understanding Out-of-Distribution Generalization Datasets and Algorithms](https://arxiv.org/abs/2106.03721v1). Nanyang Ye, Kaican Li, Lanqing Hong, Haoyue Bai, Yiting Chen, Fengwei Zhou, Zhenguo Li. (**ArXiv 2021**).
+- [Exploring the Limits of Out-of-Distribution Detection](https://arxiv.org/abs/2106.03004v1). Stanislav Fort, Jie Ren, Balaji Lakshminarayanan. (**ArXiv 2021**).
+- [Can Subnetwork Structure be the Key to Out-of-Distribution Generalization?](https://arxiv.org/abs/2106.02890v1). Dinghuai Zhang, Kartik Ahuja, Yilun Xu, Yisen Wang, Aaron Courville. (**ICML 2021**).
+- [Out-of-Distribution Generalization in Kernel Regression](https://arxiv.org/abs/2106.02261v1). Abdulkadir Canatar, Blake Bordelon, Cengiz Pehlevan. (**ArXiv 2021**). 
+- [MOS: Towards Scaling Out-of-distribution Detection for Large Semantic Space](https://arxiv.org/abs/2105.01879v1). Rui Huang, Yixuan Li. (**CVPR 2021**). [**[code]**](https://github.com/deeplearning-wisc/large_scale_ood)
+- [MOOD: Multi-level Out-of-distribution Detection](https://arxiv.org/abs/2104.14726v1). Ziqian Lin, Sreya Dutta Roy, Yixuan Li. (**CVPR 2021**). [**[code]**](https://github.com/deeplearning-wisc/MOOD)
 - [SSD: A Unified Framework for Self-Supervised Outlier Detection](https://openreview.net/forum?id=v5gjXpmR8J), Vikash Sehwag, Mung Chiang, Prateek Mittal. (**ICLR 2021**). [**[code]**](https://github.com/inspire-group/SSD)
 
 ##### 2020
