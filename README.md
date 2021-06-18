@@ -226,6 +226,9 @@
 ## Anomaly Detection
 [need to survey more..](https://github.com/hoya012/awesome-anomaly-detection)
 
+##### 2021
+- [Multiresolution Knowledge Distillation for Anomaly Detection](https://openaccess.thecvf.com/content/CVPR2021/html/Salehi_Multiresolution_Knowledge_Distillation_for_Anomaly_Detection_CVPR_2021_paper.html). Mohammadreza Salehi, Niousha Sadjadi, Soroosh Baselizadeh, Mohammad H. Rohban, Hamid R. Rabiee. (**CVPR 2021**). [**[code]**](https://github.com/rohban-lab/Knowledge_Distillation_AD)
+
 ##### 2020
 - [Classification-Based Anomaly Detection for General Data](https://openreview.net/forum?id=H1lK_lBtvS). Liron Bergman, Yedid Hoshen. (**ICLR, 2020**).
 
