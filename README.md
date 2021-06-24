@@ -186,6 +186,8 @@
 - [SSD: A Unified Framework for Self-Supervised Outlier Detection](https://openreview.net/forum?id=v5gjXpmR8J), Vikash Sehwag, Mung Chiang, Prateek Mittal. (**ICLR 2021**). [**[code]**](https://github.com/inspire-group/SSD)
 
 ##### 2020
+- [Background Data Resampling for Outlier-Aware Classification](https://openaccess.thecvf.com/content_CVPR_2020/html/Li_Background_Data_Resampling_for_Outlier-Aware_Classification_CVPR_2020_paper.html), Yi Li, Nuno Vasconcelos. (**CVPR 2020**) [[code]](https://github.com/JerryYLi/bg-resample-ood)
+- [Robust Out-of-distribution Detection for Neural Networks](https://arxiv.org/abs/2003.09711), Jiefeng Chen, Yixuan Li, Xi Wu, Yingyu Liang, Somesh Jha. (**arXiv 2020**) [[code]](https://github.com/jfc43/robust-ood-detection)
 - [Input Complexity and Out-of-distribution Detection with Likelihood-based Generative Models](https://openreview.net/forum?id=SyxIWpVYvr). Joan Serrà, David Álvarez, Vicenç Gómez, Olga Slizovskaia, José F. Núñez, Jordi Luque. (**ICLR, 2020**)
 - [Generalized ODIN: Detecting Out-of-distribution Image without Learning from Out-of-distribution Data](https://arxiv.org/abs/2002.11297). Yen-Chang Hsu, Yilin Shen, Hongxia Jin, Zsolt Kira. (**CVPR 2020**)
 - [Soft Labeling Affects Out-of-Distribution Detection of Deep Neural Networks](https://arxiv.org/abs/2007.03212v1). Doyup Lee, Yeongjae Cheon. (**ICML 2020 Workshop on Uncertainty and Robustness in Deep Learning**)
