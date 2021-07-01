@@ -23,8 +23,8 @@
 
 - [Papers](#papers)
 	- [Open Set Recognition](#papers-osr)
-    	- [Traditional Machine Learning Methods-based](#papers-osr-ml)
     	- [Deep Neural Network-based](#papers-osr-dnn)
+      	- [Traditional Machine Learning Methods-based](#papers-osr-ml)
     	- [Open Set Learning Theory](#papers-oslt)
   	- [Out-of-Distribution](#papers-odd)
   	- [Anomaly Detection](#papers-ad)
@@ -61,8 +61,6 @@
 
 
 # Papers
-
-
 
 <a name="papers-osr"></a>
 ## Open Set Recognition
