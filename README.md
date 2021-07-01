@@ -25,6 +25,7 @@
 	- [Open Set Recognition](#papers-osr)
     	- [Traditional Machine Learning Methods-based](#papers-osr-ml)
     	- [Deep Neural Network-based](#papers-osr-dnn)
+    	- [Open Set Learning Theory](#papers-oslt)
   	- [Out-of-Distribution](#papers-odd)
   	- [Anomaly Detection](#papers-ad)
   	- [Open Set Domain Adaptation](#papers-osda)
@@ -61,10 +62,7 @@
 
 # Papers
 
-<a name="papers-osr"></a>
-## Open Set Learning Theory
-##### 2021
-- [Learning Bounds for Open-Set Learning](https://arxiv.org/abs/2106.15792). Zhen Fang, Jie Lu, Anjin Liu, Feng Liu, Guangquan Zhang. (**ICML 2021**). [[code]](https://github.com/Anjin-Liu/Openset_Learning_AOSR).
+
 
 <a name="papers-osr"></a>
 ## Open Set Recognition
@@ -172,7 +170,10 @@
 ##### 2013
 - [Toward Open Set Recognition](https://ieeexplore.ieee.org/abstract/document/6365193), Scheirer W J, de Rezende Rocha A, Sapkota A, et al. (**PAMI, 2013**).[**[code]**](https://github.com/ljain2/libsvm-openset).
 
-
+<a name="papers-oslt"></a>
+## Open Set Learning Theory
+##### 2021
+- [Learning Bounds for Open-Set Learning](https://arxiv.org/abs/2106.15792). Zhen Fang, Jie Lu, Anjin Liu, Feng Liu, Guangquan Zhang. (**ICML 2021**). [[code]](https://github.com/Anjin-Liu/Openset_Learning_AOSR).
 
 <a name="papers-odd"></a>
 ## Out-of-Distribution
