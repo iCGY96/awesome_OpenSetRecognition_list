@@ -69,6 +69,9 @@
 ### Deep Neural Network-based
 
 ##### 2021
+- [Adversarial Reciprocal Points Learning for Open Set Recognition](https://arxiv.org/abs/2103.00953). Guangyao Chen, Peixi Peng, Xiangqian Wang, Yonghong Tian. (**TPAMI 2021**). [[code]](https://github.com/iCGY96/ARPL).
+- [Evidential Deep Learning for Open Set Action Recognition](https://arxiv.org/abs/2107.10161v1). Wentao Bao, Qi Yu, Yu Kong. (**ICCV 2021**).
+- [M2IOSR: Maximal Mutual Information Open Set Recognition](https://arxiv.org/abs/2108.02373v2). Xin Sun, Henghui Ding, Chi Zhang, Guosheng Lin, Keck-Voon Ling. (**ArXiv 2021**)
 - [OpenMatch: Open-set Consistency Regularization for Semi-supervised Learning with Outliers](https://arxiv.org/abs/2105.14148v1). Kuniaki Saito, Donghyun Kim, Kate Saenko. (**ArXiv 2021**)
 - [Exemplar-Based Open-Set Panoptic Segmentation Network](https://arxiv.org/abs/2105.08336v2). Jaedong Hwang, Seoung Wug Oh, Joon-Young Lee, Bohyung Han. (**CVPR 2021**)
 - [Open-set Recognition based on the Combination of Deep Learning and Ensemble Method for Detecting Unknown Traffic Scenarios](https://arxiv.org/abs/2105.07635v1). Lakshman Balasubramanian, Friedrich Kruber, Michael Botsch, Ke Deng. (**IEEE Intelligent Vehicles 2021**)
@@ -76,7 +79,6 @@
 - [MMF: A loss extension for feature learning in open set recognition](https://arxiv.org/abs/2006.15117v2). Jingyun Jia, Philip K. Chan. (**ArXiv 2021**).
 - [Self-supervised Detransformation Autoencoder for Representation Learning in Open Set Recognition](https://arxiv.org/abs/2105.13557v1). Jingyun Jia, Philip K. Chan. (**ArXiv 2021**).
 - [Counterfactual Zero-Shot and Open-Set Visual Recognition](https://arxiv.org/abs/2103.00887). Zhongqi Yue, Tan Wang, Hanwang Zhang, Qianru Sun, Xian-Sheng Hua. (**CVPR 2021**).  [[code]](https://github.com/yue-zhongqi/gcm-cf).
-- [Adversarial Reciprocal Points Learning for Open Set Recognition](https://arxiv.org/abs/2103.00953). Guangyao Chen, Peixi Peng, Xiangqian Wang, Yonghong Tian. (**ArXiv 2021**). [[code]](https://github.com/iCGY96/ARPL).
 - [Deep Compact Polyhedral Conic Classifier for Open and Closed Set Recognition](https://arxiv.org/abs/2102.12570v1). Hakan Cevikalp, Bedirhan Uzun, Okan Köpüklü, Gurkan Ozturk.(**ArXiv 2021**)
 - [Learning Placeholders for Open-Set Recognition](https://arxiv.org/abs/2103.15086). Da-Wei Zhou, Han-Jia Ye, De-Chuan Zhan.(**CVPR 2021**)
 - [Teacher-Explorer-Student Learning: A Novel Learning Method for Open Set Recognition](http://arxiv.org/abs/2103.12871v1). Jaeyeon Jang, Chang Ouk Kim.(**ArXiv 2021**)
