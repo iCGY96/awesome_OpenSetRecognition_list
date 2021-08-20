@@ -181,7 +181,7 @@
 ## Out-of-Distribution
 
 ##### 2021
-- [Amplitude-Phase Recombination: Rethinking Robustness of Convolutional Neural Networks in Frequency Domain]. Guangyao Chen, Peixi Peng, Li Ma, Jia Li, Lin Du, Yonghong Tian. (**ICCV 2021**). [**[code]**](https://github.com/iCGY96/APR)
+- [Amplitude-Phase Recombination: Rethinking Robustness of Convolutional Neural Networks in Frequency Domain](https://arxiv.org/abs/2108.08487). Guangyao Chen, Peixi Peng, Li Ma, Jia Li, Lin Du, Yonghong Tian. (**ICCV 2021**). [**[code]**](https://github.com/iCGY96/APR)
 - [Towards a Theoretical Framework of Out-of-Distribution Generalization](https://arxiv.org/abs/2106.04496v1). Haotian Ye, Chuanlong Xie, Tianle Cai, Ruichen Li, Zhenguo Li, Liwei Wang. (**ArXiv 2021**).
 - [Provably Robust Detection of Out-of-distribution Data (almost) for free](https://arxiv.org/abs/2106.04260v1). Alexander Meinke, Julian Bitterwolf, Matthias Hein. (**ArXiv 2021**).
 - [Fine-grained Out-of-Distribution Detection with Mixup Outlier Exposure](https://arxiv.org/abs/2106.03917v1). Jingyang Zhang, Nathan Inkawhich, Yiran Chen, Hai Li. (**ArXiv 2021**).
