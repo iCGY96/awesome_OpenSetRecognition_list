@@ -69,7 +69,9 @@
 ### Deep Neural Network-based
 
 ##### 2021
+- [Trash to Treasure: Harvesting OOD Data with Cross-Modal Matching for Open-Set Semi-Supervised Learning](https://arxiv.org/abs/2108.05617). Junkai Huang, Chaowei Fang, Weikai Chen, Zhenhua Chai, Xiaolin Wei, Pengxu Wei, Liang Lin, Guanbin Li. (**ICCV 2021**).
 - [Adversarial Reciprocal Points Learning for Open Set Recognition](https://arxiv.org/abs/2103.00953). Guangyao Chen, Peixi Peng, Xiangqian Wang, Yonghong Tian. (**TPAMI 2021**). [[code]](https://github.com/iCGY96/ARPL).
+- [Conditional Variational Capsule Network for Open Set Recognition](https://arxiv.org/abs/2104.09159). Yunrui Guo, Guglielmo Camporese, Wenjing Yang, Alessandro Sperduti, Lamberto Ballan. (**ICCV 2021**). [[code]](https://github.com/guglielmocamporese/cvaecaposr)
 - [Evidential Deep Learning for Open Set Action Recognition](https://arxiv.org/abs/2107.10161v1). Wentao Bao, Qi Yu, Yu Kong. (**ICCV 2021**).
 - [M2IOSR: Maximal Mutual Information Open Set Recognition](https://arxiv.org/abs/2108.02373v2). Xin Sun, Henghui Ding, Chi Zhang, Guosheng Lin, Keck-Voon Ling. (**ArXiv 2021**)
 - [OpenMatch: Open-set Consistency Regularization for Semi-supervised Learning with Outliers](https://arxiv.org/abs/2105.14148v1). Kuniaki Saito, Donghyun Kim, Kate Saenko. (**ArXiv 2021**)
@@ -83,7 +85,7 @@
 - [Learning Placeholders for Open-Set Recognition](https://arxiv.org/abs/2103.15086). Da-Wei Zhou, Han-Jia Ye, De-Chuan Zhan.(**CVPR 2021**)
 - [Teacher-Explorer-Student Learning: A Novel Learning Method for Open Set Recognition](http://arxiv.org/abs/2103.12871v1). Jaeyeon Jang, Chang Ouk Kim.(**ArXiv 2021**)
 - [OpenGAN: Open-Set Recognition via Open Data Generation](https://arxiv.org/abs/2104.02939v2). Shu Kong, Deva Ramanan. (**ArXiv 2021**). [[code]](https://github.com/aimerykong/OpenGAN).
-- [Conditional Variational Capsule Network for Open Set Recognition](https://arxiv.org/abs/2104.09159). Yunrui Guo, Guglielmo Camporese, Wenjing Yang, Alessandro Sperduti, Lamberto Ballan. (**ArXiv 2021**). [[code]](https://github.com/guglielmocamporese/cvaecaposr)
+
 
 ##### 2020
 - [Conditional Gaussian Distribution Learning for Open Set Recognition](https://arxiv.org/abs/2003.08823v2), Xin Sun, Zhenning Yang, Chi Zhang, Guohao Peng, Keck-Voon Ling. (**CVPR 2020**). [[code]](https://github.com/BraveGump/CGDL-for-Open-Set-Recognition).
@@ -179,6 +181,7 @@
 ## Out-of-Distribution
 
 ##### 2021
+- [Amplitude-Phase Recombination: Rethinking Robustness of Convolutional Neural Networks in Frequency Domain]. Guangyao Chen, Peixi Peng, Li Ma, Jia Li, Lin Du, Yonghong Tian. (**ICCV 2021**). [**[code]**](https://github.com/iCGY96/APR)
 - [Towards a Theoretical Framework of Out-of-Distribution Generalization](https://arxiv.org/abs/2106.04496v1). Haotian Ye, Chuanlong Xie, Tianle Cai, Ruichen Li, Zhenguo Li, Liwei Wang. (**ArXiv 2021**).
 - [Provably Robust Detection of Out-of-distribution Data (almost) for free](https://arxiv.org/abs/2106.04260v1). Alexander Meinke, Julian Bitterwolf, Matthias Hein. (**ArXiv 2021**).
 - [Fine-grained Out-of-Distribution Detection with Mixup Outlier Exposure](https://arxiv.org/abs/2106.03917v1). Jingyang Zhang, Nathan Inkawhich, Yiran Chen, Hai Li. (**ArXiv 2021**).
