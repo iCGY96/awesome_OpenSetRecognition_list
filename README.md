@@ -283,14 +283,19 @@
 ## Open World Recognition
 
 ##### 2021
+
+- [A Unified Objective for Novel Class Discovery](https://arxiv.org/abs/2108.08536), Enrico Fini, Enver Sangineto, Stéphane Lathuilière, Zhun Zhong, Moin Nabi, Elisa Ricci. (**ICCV 2021**). [**[code]**](https://github.com/DonkeyShot21/UNO)
+
+- [Neighborhood Contrastive Learning for Novel Class Discovery](https://arxiv.org/abs/2106.10731), Zhun Zhong, Enrico Fini, Subhankar Roy, Zhiming Luo, Elisa Ricci, Nicu Sebe. (**CVPR 2021**). [**[code]**](https://github.com/zhunzhong07/NCL)
+
+- [OpenMix: Reviving Known Knowledge for Discovering Novel Visual Categories in An Open World](https://arxiv.org/abs/2004.05551), Zhun Zhong, Linchao Zhu, Zhiming Luo, Shaozi Li, Yi Yang, Nicu Sebe. (**CVPR 2021**).
+
 - [Towards Open World Object Detection](https://arxiv.org/abs/2103.02603), K J Joseph, Salman Khan, Fahad Shahbaz Khan, Vineeth N Balasubramanian. (**CVPR 2021**). [**[code]**](https://github.com/JosephKJ/OWOD)
 
 ##### 2020
 - [Learning to discover novel visual categories via deep transfer clustering](https://openaccess.thecvf.com/content_ICCV_2019/papers/Han_Learning_to_Discover_Novel_Visual_Categories_via_Deep_Transfer_Clustering_ICCV_2019_paper.pdf), Kai Han, Andrea Vedaldi, Andrew Zisserman. (**ICCV 2019**).
 
 - [Automatically discovering and learning new visual categories with ranking statistics](https://openreview.net/forum?id=BJl2_nVFPB), Han, K., Rebuffi, S.A., Ehrhardt, S., Vedaldi, A., Zisserman. (**ICLR 2020**).
-
-- [OpenMix: Reviving Known Knowledge for Discovering Novel Visual Categories in An Open World](https://arxiv.org/abs/2004.05551), Zhun Zhong, Linchao Zhu, Zhiming Luo, Shaozi Li, Yi Yang, Nicu Sebe. (**arXiv 2020**).
 
 ##### 2019
 - [P-ODN: Prototype based Open Deep Network for Open Set Recognition](https://arxiv.org/abs/1905.01851v1), Yu Shu, Yemin Shi, Yaowei Wang, Tiejun Huang, Yonghong Tian. (**arXiv 2019**).
