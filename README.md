@@ -72,7 +72,7 @@
 - [Trash to Treasure: Harvesting OOD Data with Cross-Modal Matching for Open-Set Semi-Supervised Learning](https://arxiv.org/abs/2108.05617). Junkai Huang, Chaowei Fang, Weikai Chen, Zhenhua Chai, Xiaolin Wei, Pengxu Wei, Liang Lin, Guanbin Li. (**ICCV 2021**).
 - [Adversarial Reciprocal Points Learning for Open Set Recognition](https://arxiv.org/abs/2103.00953). Guangyao Chen, Peixi Peng, Xiangqian Wang, Yonghong Tian. (**TPAMI 2021**). [[code]](https://github.com/iCGY96/ARPL).
 - [Conditional Variational Capsule Network for Open Set Recognition](https://arxiv.org/abs/2104.09159). Yunrui Guo, Guglielmo Camporese, Wenjing Yang, Alessandro Sperduti, Lamberto Ballan. (**ICCV 2021**). [[code]](https://github.com/guglielmocamporese/cvaecaposr)
-- [Evidential Deep Learning for Open Set Action Recognition](https://arxiv.org/abs/2107.10161v1). Wentao Bao, Qi Yu, Yu Kong. (**ICCV 2021**).
+- [Evidential Deep Learning for Open Set Action Recognition](https://arxiv.org/abs/2107.10161v1). Wentao Bao, Qi Yu, Yu Kong. (**ICCV 2021**). [[code]]( https://github.com/Cogito2012/DEAR)
 - [M2IOSR: Maximal Mutual Information Open Set Recognition](https://arxiv.org/abs/2108.02373v2). Xin Sun, Henghui Ding, Chi Zhang, Guosheng Lin, Keck-Voon Ling. (**ArXiv 2021**)
 - [OpenMatch: Open-set Consistency Regularization for Semi-supervised Learning with Outliers](https://arxiv.org/abs/2105.14148v1). Kuniaki Saito, Donghyun Kim, Kate Saenko. (**ArXiv 2021**)
 - [Exemplar-Based Open-Set Panoptic Segmentation Network](https://arxiv.org/abs/2105.08336v2). Jaedong Hwang, Seoung Wug Oh, Joon-Young Lee, Bohyung Han. (**CVPR 2021**)
