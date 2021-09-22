@@ -69,6 +69,10 @@
 ### Deep Neural Network-based
 
 ##### 2021
+- [Large Scale Open-Set Deep Logo Detection](https://arxiv.org/abs/1911.07440v2). Muhammet Bastan, Hao-Yu Wu, Tian Cao, Bhargava Kota, Mehmet Tek. (**ArXiv 2021**). [[code]](https://github.com/mubastan/osld).
+- [OpenMatch: Open-set Consistency Regularization for Semi-supervised Learning with Outliers](https://arxiv.org/abs/2105.14148v2). Kuniaki Saito, Donghyun Kim, Kate Saenko. (**ArXiv 2021**). [[code]](https://github.com/VisionLearningGroup/OP_Match).
+- [Trash to Treasure: Harvesting OOD Data with Cross-Modal Matching for Open-Set Semi-Supervised Learning](https://arxiv.org/abs/2108.05617v1). Junkai Huang, Chaowei Fang, Weikai Chen, Zhenhua Chai, Xiaolin Wei, Pengxu Wei, Liang Lin, Guanbin Li. (**ICCV 2021**).
+- [Zero-Shot Open Set Detection by Extending CLIP](https://arxiv.org/abs/2109.02748v2). Sepideh Esmaeilpour, Bing Liu, Eric Robertson, Lei Shu. (**ArXiv 2021**).
 - [Trash to Treasure: Harvesting OOD Data with Cross-Modal Matching for Open-Set Semi-Supervised Learning](https://arxiv.org/abs/2108.05617). Junkai Huang, Chaowei Fang, Weikai Chen, Zhenhua Chai, Xiaolin Wei, Pengxu Wei, Liang Lin, Guanbin Li. (**ICCV 2021**).
 - [Adversarial Reciprocal Points Learning for Open Set Recognition](https://arxiv.org/abs/2103.00953). Guangyao Chen, Peixi Peng, Xiangqian Wang, Yonghong Tian. (**TPAMI 2021**). [[code]](https://github.com/iCGY96/ARPL).
 - [Conditional Variational Capsule Network for Open Set Recognition](https://arxiv.org/abs/2104.09159). Yunrui Guo, Guglielmo Camporese, Wenjing Yang, Alessandro Sperduti, Lamberto Ballan. (**ICCV 2021**). [[code]](https://github.com/guglielmocamporese/cvaecaposr)
