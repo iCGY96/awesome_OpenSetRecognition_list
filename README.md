@@ -69,6 +69,13 @@
 ### Deep Neural Network-based
 
 ##### 2021
+- [Trash To Treasure: Harvesting OOD Data With Cross-Modal Matching for Open-Set Semi-Supervised Learning](https://arxiv.org/abs/2108.05617). Junkai Huang, Chaowei Fang, Weikai Chen, Zhenhua Chai, Xiaolin Wei, Pengxu Wei, Liang Lin, Guanbin Li. (**ICCV 2021**)
+- [Energy-Based Open-World Uncertainty Modeling for Confidence Calibration](https://openaccess.thecvf.com/content/ICCV2021/html/Wang_Energy-Based_Open-World_Uncertainty_Modeling_for_Confidence_Calibration_ICCV_2021_paper.html). Yezhen Wang, Bo Li, Tong Che, Kaiyang Zhou, Ziwei Liu, Dongsheng Li. (**ICCV 2021**)
+- [Prototypical Matching and Open Set Rejection for Zero-Shot Semantic Segmentation](https://openaccess.thecvf.com/content/ICCV2021/html/Zhang_Prototypical_Matching_and_Open_Set_Rejection_for_Zero-Shot_Semantic_Segmentation_ICCV_2021_paper.html). Hui Zhang, Henghui Ding. (**ICCV 2021**)
+- [Towards Discovery and Attribution of Open-World GAN Generated Images](https://arxiv.org/abs/2105.04580). Sharath Girish, Saksham Suri, Saketh Rambhatla, Abhinav Shrivastava. (**ICCV 2021**)
+- [Unidentified Video Objects: A Benchmark for Dense, Open-World Segmentation](https://arxiv.org/abs/2104.04691). Weiyao Wang, Matt Feiszli, Heng Wang, Du Tran. (**ICCV 2021**)
+- [Deep Metric Learning for Open World Semantic Segmentation](https://arxiv.org/abs/2108.04562). Jun Cen, Peng Yun, Junhao Cai, Michael Yu Wang, Ming Liu. (**ICCV 2021**)
+- [NGC: A Unified Framework for Learning With Open-World Noisy Data](https://arxiv.org/abs/2108.11035). Zhi-Fan Wu, Tong Wei, Jianwen Jiang, Chaojie Mao, Mingqian Tang, Yu-Feng Li. (**ICCV 2021**)
 - [Large Scale Open-Set Deep Logo Detection](https://arxiv.org/abs/1911.07440v2). Muhammet Bastan, Hao-Yu Wu, Tian Cao, Bhargava Kota, Mehmet Tek. (**ArXiv 2021**). [[code]](https://github.com/mubastan/osld).
 - [OpenMatch: Open-set Consistency Regularization for Semi-supervised Learning with Outliers](https://arxiv.org/abs/2105.14148v2). Kuniaki Saito, Donghyun Kim, Kate Saenko. (**ArXiv 2021**). [[code]](https://github.com/VisionLearningGroup/OP_Match).
 - [Trash to Treasure: Harvesting OOD Data with Cross-Modal Matching for Open-Set Semi-Supervised Learning](https://arxiv.org/abs/2108.05617v1). Junkai Huang, Chaowei Fang, Weikai Chen, Zhenhua Chai, Xiaolin Wei, Pengxu Wei, Liang Lin, Guanbin Li. (**ICCV 2021**).
@@ -255,6 +262,9 @@
 
 <a name="papers-osda"></a>
 ## Open Set Domain Adaptation
+
+##### 2021
+- [Towards Novel Target Discovery Through Open-Set Domain Adaptation](https://arxiv.org/abs/2105.02432). Taotao Jing, Hongfu Liu, Zhengming Ding. (**ICCV 2021**).
 
 ##### 2020
 - [Collaborative Training of Balanced Random Forests for Open Set Domain Adaptation](https://arxiv.org/abs/2002.03642v1), Jongbin Ryu, Jiun Bae, Jongwoo Lim. (**arXiv 2020**).
