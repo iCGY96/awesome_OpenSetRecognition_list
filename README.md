@@ -70,6 +70,7 @@
 
 ##### 2021
 - [Open-Set Recognition: A Good Closed-Set Classifier is All You Need](https://arxiv.org/abs/2110.06207). Sagar Vaze, Kai Han, Andrea Vedaldi, Andrew Zisserman. (**ArXiv 2021**). [[code]](https://github.com/sgvaze/osr_closed_set_all_you_need).
+- [Adversarial Motorial Prototype Framework for Open Set Recognition](https://arxiv.org/abs/2108.04225). Ziheng Xia, Penghui Wang, Ganggang Dong, Hongwei Liu. (**ArXiv 2021**).
 - [Trash To Treasure: Harvesting OOD Data With Cross-Modal Matching for Open-Set Semi-Supervised Learning](https://arxiv.org/abs/2108.05617). Junkai Huang, Chaowei Fang, Weikai Chen, Zhenhua Chai, Xiaolin Wei, Pengxu Wei, Liang Lin, Guanbin Li. (**ICCV 2021**)
 - [Energy-Based Open-World Uncertainty Modeling for Confidence Calibration](https://openaccess.thecvf.com/content/ICCV2021/html/Wang_Energy-Based_Open-World_Uncertainty_Modeling_for_Confidence_Calibration_ICCV_2021_paper.html). Yezhen Wang, Bo Li, Tong Che, Kaiyang Zhou, Ziwei Liu, Dongsheng Li. (**ICCV 2021**)
 - [Prototypical Matching and Open Set Rejection for Zero-Shot Semantic Segmentation](https://openaccess.thecvf.com/content/ICCV2021/html/Zhang_Prototypical_Matching_and_Open_Set_Rejection_for_Zero-Shot_Semantic_Segmentation_ICCV_2021_paper.html). Hui Zhang, Henghui Ding. (**ICCV 2021**)
