@@ -64,7 +64,7 @@
 
 <a name="papers-osr"></a>
 ## Open Set Recognition
- 
+
 <a name="papers-osr-dnn"></a>
 ### Deep Neural Network-based
 
@@ -192,6 +192,9 @@
 ## Out-of-Distribution
 
 ##### 2021
+
+- [Learning Representations that Support Robust Transfer of Predictors](https://arxiv.org/abs/2110.09940). Yilun Xu, Tommi Jaakkola.  (**ArXiv 2021**). [**[code]**](https://github.com/Newbeeer/TRM)
+
 - [Amplitude-Phase Recombination: Rethinking Robustness of Convolutional Neural Networks in Frequency Domain](https://arxiv.org/abs/2108.08487). Guangyao Chen, Peixi Peng, Li Ma, Jia Li, Lin Du, Yonghong Tian. (**ICCV 2021**). [**[code]**](https://github.com/iCGY96/APR)
 - [Entropy Maximization and Meta Classification for Out-of-Distribution Detection in Semantic Segmentation](https://openaccess.thecvf.com/content/ICCV2021/html/Chan_Entropy_Maximization_and_Meta_Classification_for_Out-of-Distribution_Detection_in_Semantic_ICCV_2021_paper.html). Robin Chan, Matthias Rottmann, Hanno Gottschalk. (**ICCV 2021**). [**[code]**](https://github.com/robin-chan/meta-ood)
 - [Online Continual Learning With Natural Distribution Shifts: An Empirical Study With Visual Data](https://arxiv.org/abs/2108.09020). Zhipeng Cai, Ozan Sener, Vladlen Koltun. (**ICCV 2021**). [**[code]**](https://github.com/intellabs/continuallearning)
