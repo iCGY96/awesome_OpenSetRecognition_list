@@ -71,6 +71,7 @@
 ##### 2021
 - [Open-Set Recognition: A Good Closed-Set Classifier is All You Need](https://arxiv.org/abs/2110.06207). Sagar Vaze, Kai Han, Andrea Vedaldi, Andrew Zisserman. (**ArXiv 2021**). [[code]](https://github.com/sgvaze/osr_closed_set_all_you_need).
 - [Adversarial Motorial Prototype Framework for Open Set Recognition](https://arxiv.org/abs/2108.04225). Ziheng Xia, Penghui Wang, Ganggang Dong, Hongwei Liu. (**ArXiv 2021**).
+- [OpenGAN: Open-Set Recognition via Open Data Generation](https://arxiv.org/abs/2104.02939v2). Shu Kong, Deva Ramanan. (**ICCV 2021**). [[code]](https://github.com/aimerykong/OpenGAN).
 - [Trash To Treasure: Harvesting OOD Data With Cross-Modal Matching for Open-Set Semi-Supervised Learning](https://arxiv.org/abs/2108.05617). Junkai Huang, Chaowei Fang, Weikai Chen, Zhenhua Chai, Xiaolin Wei, Pengxu Wei, Liang Lin, Guanbin Li. (**ICCV 2021**)
 - [Energy-Based Open-World Uncertainty Modeling for Confidence Calibration](https://openaccess.thecvf.com/content/ICCV2021/html/Wang_Energy-Based_Open-World_Uncertainty_Modeling_for_Confidence_Calibration_ICCV_2021_paper.html). Yezhen Wang, Bo Li, Tong Che, Kaiyang Zhou, Ziwei Liu, Dongsheng Li. (**ICCV 2021**)
 - [Prototypical Matching and Open Set Rejection for Zero-Shot Semantic Segmentation](https://openaccess.thecvf.com/content/ICCV2021/html/Zhang_Prototypical_Matching_and_Open_Set_Rejection_for_Zero-Shot_Semantic_Segmentation_ICCV_2021_paper.html). Hui Zhang, Henghui Ding. (**ICCV 2021**)
@@ -95,7 +96,7 @@
 - [Deep Compact Polyhedral Conic Classifier for Open and Closed Set Recognition](https://arxiv.org/abs/2102.12570v1). Hakan Cevikalp, Bedirhan Uzun, Okan Köpüklü, Gurkan Ozturk.(**ArXiv 2021**)
 - [Learning Placeholders for Open-Set Recognition](https://arxiv.org/abs/2103.15086). Da-Wei Zhou, Han-Jia Ye, De-Chuan Zhan.(**CVPR 2021**)
 - [Teacher-Explorer-Student Learning: A Novel Learning Method for Open Set Recognition](http://arxiv.org/abs/2103.12871v1). Jaeyeon Jang, Chang Ouk Kim.(**ArXiv 2021**)
-- [OpenGAN: Open-Set Recognition via Open Data Generation](https://arxiv.org/abs/2104.02939v2). Shu Kong, Deva Ramanan. (**ArXiv 2021**). [[code]](https://github.com/aimerykong/OpenGAN).
+
 
 
 ##### 2020
