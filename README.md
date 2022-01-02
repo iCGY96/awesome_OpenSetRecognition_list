@@ -50,6 +50,9 @@
 
 - [Recent Advances in Open Set Recognition: A Survey v2](https://arxiv.org/abs/1811.08581v2), Chuanxing Geng, Sheng-jun Huang, Songcan Chen. (**arXiv, 2019**).
 
+- [A Unified Survey on Anomaly, Novelty, Open-Set, and Out-of-Distribution Detection: Solutions and Future Challenges](https://arxiv.org/abs/2110.14051). Salehi M, Mirzaei H, Hendrycks D, Li Y, Rohban MH, Sabokrou M. (**arXiv 2021**).
+
+
 <a name="papers"></a>
 
 <a name="challenges"></a>
@@ -260,7 +263,6 @@
 [need to survey more..](https://github.com/hoya012/awesome-anomaly-detection)
 
 ##### 2021
-- [A Unified Survey on Anomaly, Novelty, Open-Set, and Out-of-Distribution Detection: Solutions and Future Challenges](https://arxiv.org/abs/2110.14051). Mohammadreza Salehi, Hossein Mirzaei, Dan Hendrycks, Yixuan Li, Mohammad Hossein Rohban, Mohammad Sabokrou. (**arXiv 2021**).
 - [Multiresolution Knowledge Distillation for Anomaly Detection](https://openaccess.thecvf.com/content/CVPR2021/html/Salehi_Multiresolution_Knowledge_Distillation_for_Anomaly_Detection_CVPR_2021_paper.html). Mohammadreza Salehi, Niousha Sadjadi, Soroosh Baselizadeh, Mohammad H. Rohban, Hamid R. Rabiee. (**CVPR 2021**). [**[code]**](https://github.com/rohban-lab/Knowledge_Distillation_AD)
 
 ##### 2020
