@@ -60,7 +60,9 @@
 
 <a name="papers-osr"></a>
 ## Open World Vision
-[Open World Image Classification Challenge](https://eval.ai/web/challenges/challenge-page/1041/overview), CVPR 2021.
+- [Visual Perception and Learning in an Open World](http://www.cs.cmu.edu/~shuk/vplow.html), CVPR 2022.
+- [Dealing with Novelty in Open Worlds: DNOW](https://www.cs.umd.edu/~pulkit/DNOW_workshop/), WACV 2022.
+- [Open World Image Classification Challenge](https://eval.ai/web/challenges/challenge-page/1041/overview), CVPR 2021.
 
 
 # Papers
@@ -71,6 +73,10 @@
 <a name="papers-osr-dnn"></a>
 ### Deep Neural Network-based
 ##### 2022
+- [LUNA: Localizing Unfamiliarity Near Acquaintance for Open-Set Long-Tailed Recognition](https://aaai-2022.virtualchair.net/poster_aaai10200). Jiarui Cai, Yizhou Wang, Hung-Min Hsu, Jenq-Neng Hwang, Kelsey Magrane, Craig Rose. (**AAAI 2022**).
+- [Learngene: From Open-World to Your Learning Task](https://aaai-2022.virtualchair.net/poster_aaai3013). Qiufeng Wang, Xin Geng, Shuxia Lin, Shiyu Xia, Lei Qi, Ning Xu. (**AAAI 2022**).
+- [Learning Network Architecture for Open-Set Recognition](https://aaai-2022.virtualchair.net/poster_aaai12763). Xuelin Zhang, Xuelian Cheng, Donghao Zhang, Paul Bonnington, Zongyuan Ge. (**AAAI 2022**).
+- [PMAL: Open Set Recognition via Robust Prototype Mining](https://aaai-2022.virtualchair.net/poster_aaai284). Jing Lu, Yunlu Xu, Hao Li, Zhanzhan Cheng, Yi Niu. (**AAAI 2022**).
 - [Open-Set Recognition: A Good Closed-Set Classifier is All You Need](https://arxiv.org/abs/2110.06207). Sagar Vaze, Kai Han, Andrea Vedaldi, Andrew Zisserman. (**ICLR 2022**). [[code]](https://github.com/sgvaze/osr_closed_set_all_you_need).
 
 ##### 2021
