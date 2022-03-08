@@ -73,6 +73,7 @@
 <a name="papers-osr-dnn"></a>
 ### Deep Neural Network-based
 ##### 2022
+- [The Familiarity Hypothesis: Explaining the Behavior of Deep Open Set Methods](https://arxiv.org/abs/2203.02486). Thomas G. Dietterich, Alexander Guyer. (**ArXiv 2022**).
 - [LUNA: Localizing Unfamiliarity Near Acquaintance for Open-Set Long-Tailed Recognition](https://aaai-2022.virtualchair.net/poster_aaai10200). Jiarui Cai, Yizhou Wang, Hung-Min Hsu, Jenq-Neng Hwang, Kelsey Magrane, Craig Rose. (**AAAI 2022**).
 - [Learngene: From Open-World to Your Learning Task](https://aaai-2022.virtualchair.net/poster_aaai3013). Qiufeng Wang, Xin Geng, Shuxia Lin, Shiyu Xia, Lei Qi, Ning Xu. (**AAAI 2022**).
 - [Learning Network Architecture for Open-Set Recognition](https://aaai-2022.virtualchair.net/poster_aaai12763). Xuelin Zhang, Xuelian Cheng, Donghao Zhang, Paul Bonnington, Zongyuan Ge. (**AAAI 2022**).
