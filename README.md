@@ -73,6 +73,7 @@
 <a name="papers-osr-dnn"></a>
 ### Deep Neural Network-based
 ##### 2022
+- [OpenTAL: Towards Open Set Temporal Action Localization](https://arxiv.org/pdf/2203.05114.pdf). Wentao Bao, Qi Yu, Yu Kong. (**CVPR 2022**). [[code]](https://github.com/Cogito2012/OpenTAL).
 - [The Familiarity Hypothesis: Explaining the Behavior of Deep Open Set Methods](https://arxiv.org/abs/2203.02486). Thomas G. Dietterich, Alexander Guyer. (**ArXiv 2022**).
 - [LUNA: Localizing Unfamiliarity Near Acquaintance for Open-Set Long-Tailed Recognition](https://aaai-2022.virtualchair.net/poster_aaai10200). Jiarui Cai, Yizhou Wang, Hung-Min Hsu, Jenq-Neng Hwang, Kelsey Magrane, Craig Rose. (**AAAI 2022**).
 - [Learngene: From Open-World to Your Learning Task](https://aaai-2022.virtualchair.net/poster_aaai3013). Qiufeng Wang, Xin Geng, Shuxia Lin, Shiyu Xia, Lei Qi, Ning Xu. (**AAAI 2022**).
