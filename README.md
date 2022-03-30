@@ -319,6 +319,10 @@
 <a name="papers-owr"></a>
 ## Open World Recognition
 
+##### 2022
+- [Opening Up Open-World Tracking](https://arxiv.org/abs/2104.11221), Yang Liu, Idil Esen Zulfikar, Jonathon Luiten, Achal Dave, Deva Ramanan, Bastian Leibe, Aljoša Ošep, Laura Leal-Taixé. (**CVPR 2022**). [**[code]**](https://github.com/JonathonLuiten/TrackEval/blob/master/docs/OpenWorldTracking-Official/Readme.md)
+- [OW-DETR: Open-world Detection Transformer](http://arxiv.org/abs/2112.01513), Akshita Gupta, Sanath Narayan, K J Joseph, Salman Khan, Fahad Shahbaz Khan, and Mubarak Shah. (**CVPR 2022**). [**[code]**](https://github.com/akshitac8/OW-DETR)
+
 ##### 2021
 
 - [A Unified Objective for Novel Class Discovery](https://arxiv.org/abs/2108.08536), Enrico Fini, Enver Sangineto, Stéphane Lathuilière, Zhun Zhong, Moin Nabi, Elisa Ricci. (**ICCV 2021**). [**[code]**](https://github.com/DonkeyShot21/UNO)
