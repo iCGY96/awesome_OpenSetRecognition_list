@@ -73,6 +73,7 @@
 <a name="papers-osr-dnn"></a>
 ### Deep Neural Network-based
 ##### 2022
+- [Difficulty-Aware Simulator for Open Set Recognition](https://arxiv.org/abs/2207.10024). WonJun Moon, Junho Park, Hyun Seok Seong, Cheol-Ho Cho, Jae-Pil Heo. (**ECCV 2022**). [[code]](https://github.com/wjun0830/Difficulty-Aware-Simulator).
 - [Unseen Classes at a Later Time? No Problem](https://arxiv.org/abs/2203.16517). Hari Chandana Kuchibhotla, Sumitra S Malagi, Shivam Chandhok, Vineeth N Balasubramanian. (**CVPR 2022**). [[code]](https://github.com/sumitramalagi/Unseen-classes-at-a-later-time).
 - [OSSGAN: Open-Set Semi-Supervised Image Generation](https://arxiv.org/abs/2204.14249). Kai Katsumata, Duc Minh Vo, Hideki Nakayama. (**CVPR 2022**). [[code]](https://github.com/raven38/ossgan).
 - [OpenTAL: Towards Open Set Temporal Action Localization](https://arxiv.org/pdf/2203.05114.pdf). Wentao Bao, Qi Yu, Yu Kong. (**CVPR 2022**). [[code]](https://github.com/Cogito2012/OpenTAL).
