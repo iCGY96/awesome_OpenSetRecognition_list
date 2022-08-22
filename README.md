@@ -73,6 +73,7 @@
 <a name="papers-osr-dnn"></a>
 ### Deep Neural Network-based
 ##### 2022
+- [DenseHybrid: Hybrid Anomaly Detection for Dense Open-set Recognition](https://arxiv.org/abs/2207.02606). Matej Grcić, Petra Bevandić, Siniša Šegvić. (**ECCV 2022**). [[code]](https://github.com/matejgrcic/DenseHybrid). 
 - [Difficulty-Aware Simulator for Open Set Recognition](https://arxiv.org/abs/2207.10024). WonJun Moon, Junho Park, Hyun Seok Seong, Cheol-Ho Cho, Jae-Pil Heo. (**ECCV 2022**). [[code]](https://github.com/wjun0830/Difficulty-Aware-Simulator). 
 - [Unseen Classes at a Later Time? No Problem](https://arxiv.org/abs/2203.16517). Hari Chandana Kuchibhotla, Sumitra S Malagi, Shivam Chandhok, Vineeth N Balasubramanian. (**CVPR 2022**). [[code]](https://github.com/sumitramalagi/Unseen-classes-at-a-later-time).
 - [OSSGAN: Open-Set Semi-Supervised Image Generation](https://arxiv.org/abs/2204.14249). Kai Katsumata, Duc Minh Vo, Hideki Nakayama. (**CVPR 2022**). [[code]](https://github.com/raven38/ossgan).
