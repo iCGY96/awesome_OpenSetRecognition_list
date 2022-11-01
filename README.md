@@ -73,6 +73,7 @@
 <a name="papers-osr-dnn"></a>
 ### Deep Neural Network-based
 ##### 2022
+- [OpenAUC: Towards AUC-Oriented Open-Set Recognition](https://arxiv.org/abs/2210.13458). Zitai Wang, Qianqian Xu, Zhiyong Yang, Yuan He, Xiaochun Cao, Qingming Huang. (**NeurIPS 2022**).
 - [Towards Open Set 3D Learning: A Benchmark on Object Point Clouds](https://arxiv.org/abs/2207.11554). Antonio Alliegro, Francesco Cappio Borlino, Tatiana Tommasi. (**ArXiv 2022**). [[code]](https://github.com/antoalli/3d_os). 
 - [Measuring Human Perception to Improve Handwritten Document Transcription](https://arxiv.org/abs/2209.03519). Jin Huang, Derek Prijatelj, Justin Dulay, Walter Scheirer. (**TPAMI 2022**)
 - [Open-Set Semi-Supervised Object Detection](https://ycliu93.github.io/projects/ossod.html). Yen-Cheng Liu, Chih-Yao Ma, Xiaoliang Dai, Junjiao Tian, Peter Vajda, Zijian He, Zsolt Kira. (**ECCV 2022**). [[code]](https://github.com/facebookresearch/OSSOD).
