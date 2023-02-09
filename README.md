@@ -72,6 +72,9 @@
 
 <a name="papers-osr-dnn"></a>
 ### Deep Neural Network-based
+##### 2023
+- [The Devil is in the Wrongly-classified Samples: Towards Unified Open-set Recognition](https://arxiv.org/abs/2302.04002). Jun Cen, Di Luan, Shiwei Zhang, Yixuan Pei, Yingya Zhang, Deli Zhao, Shaojie Shen, Qifeng Chen. (**ICLR 2022**). 
+
 ##### 2022
 - [Class-specific semantic reconstruction for open set recognition](https://arxiv.org/pdf/2207.02158.pdf). Hongzhi Huang, Yu Wang, Qinghua Hu, Ming-Ming Cheng. IEEE Transactions on Pattern Analysis and Machine Intelligence (**TPAMI 2022**). [[code]](https://github.com/xyzedd/CSSR).
 - [OpenAUC: Towards AUC-Oriented Open-Set Recognition](https://arxiv.org/abs/2210.13458). Zitai Wang, Qianqian Xu, Zhiyong Yang, Yuan He, Xiaochun Cao, Qingming Huang. (**NeurIPS 2022**).
