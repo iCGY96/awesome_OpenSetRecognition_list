@@ -73,6 +73,7 @@
 <a name="papers-osr-dnn"></a>
 ### Deep Neural Network-based
 ##### 2023
+- [Deep Learning-Based Material Characterization Using FMCW Radar With Open-Set Recognition Technique](https://doi.org/10.1109/TMTT.2023.3276053). Salah Abouzaid, Timo Jaeschke, Simon Kueppers, Jan Barowski, Nils Pohl. (**IEEE TMTT 2023**). [[code]](https://github.com/Salah-Abouzaid/MaterialCharML.git).
 - [From anomaly detection to open set recognition: Bridging the gap](https://www.sciencedirect.com/science/article/pii/S0031320323000869) Hakan Cevikalp, Bedirhan Uzun, Yusuf Salk, Hasan Saribas, Okan Köpüklü. (**Pattern Recognition 2023**)
 - [The Devil is in the Wrongly-classified Samples: Towards Unified Open-set Recognition](https://arxiv.org/abs/2302.04002). Jun Cen, Di Luan, Shiwei Zhang, Yixuan Pei, Yingya Zhang, Deli Zhao, Shaojie Shen, Qifeng Chen. (**ICLR 2022**). 
 
