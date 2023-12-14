@@ -73,6 +73,7 @@
 <a name="papers-osr-dnn"></a>
 ### Deep Neural Network-based
 ##### 2023
+- [Understanding open-set recognition by Jacobian norm and inter-class separation](https://www.sciencedirect.com/science/article/abs/pii/S0031320323006404) ([Arxiv](https://arxiv.org/abs/2209.11436)) Jaewoo Park, Hojin Park, Eunju Jeong, Andrew Beng Jin Teoh (**Pattern Recognition 2023**)
 - [Deep Learning-Based Material Characterization Using FMCW Radar With Open-Set Recognition Technique](https://doi.org/10.1109/TMTT.2023.3276053). Salah Abouzaid, Timo Jaeschke, Simon Kueppers, Jan Barowski, Nils Pohl. (**IEEE TMTT 2023**). [[code]](https://github.com/Salah-Abouzaid/MaterialCharML.git).
 - [From anomaly detection to open set recognition: Bridging the gap](https://www.sciencedirect.com/science/article/pii/S0031320323000869) Hakan Cevikalp, Bedirhan Uzun, Yusuf Salk, Hasan Saribas, Okan Köpüklü. (**Pattern Recognition 2023**)
 - [The Devil is in the Wrongly-classified Samples: Towards Unified Open-set Recognition](https://arxiv.org/abs/2302.04002). Jun Cen, Di Luan, Shiwei Zhang, Yixuan Pei, Yingya Zhang, Deli Zhao, Shaojie Shen, Qifeng Chen. (**ICLR 2022**). 
@@ -212,6 +213,9 @@
 
 <a name="papers-oslt"></a>
 ## Open Set Learning Theory
+##### 2023
+- [Understanding open-set recognition by Jacobian norm and inter-class separation](https://www.sciencedirect.com/science/article/abs/pii/S0031320323006404) ([Arxiv](https://arxiv.org/abs/2209.11436)) Jaewoo Park, Hojin Park, Eunju Jeong, Andrew Beng Jin Teoh (**Pattern Recognition 2023**)
+
 ##### 2021
 - [Learning Bounds for Open-Set Learning](https://arxiv.org/abs/2106.15792). Zhen Fang, Jie Lu, Anjin Liu, Feng Liu, Guangquan Zhang. (**ICML 2021**). [[code]](https://github.com/Anjin-Liu/Openset_Learning_AOSR).
 
